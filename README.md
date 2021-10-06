@@ -2,13 +2,21 @@
 
 Awesome things from the community.
 
+## Documentation
+
+- [Technical Documentation](https://wiki.xxiivv.com/site/varvara.html)
+- [Assembly Documentation](https://wiki.xxiivv.com/site/uxntal.html)
+
 ## Community
 
 - [Forum](https://llllllll.co/t/uxn-virtual-computer/46103)
+- #uxn on irc.esper.net
 
 ## Tutorials
 
 - [compudanzas](https://compudanzas.net/uxn_tutorial.html)
+- [OS X Installation](https://eli.li/2021/09/27/how-to-install-uxn-on-macos)
+- [Windows Installation](https://itch.io/t/1605965/a-quick-guide-to-running-this-software)
 
 ## Emulators
 
@@ -28,6 +36,7 @@ Awesome things from the community.
 
 ### Assemblers & compilers
 
+- [uxnasm](https://git.sr.ht/~rabbits/uxn/tree/main/item/src/uxnasm.c)
 - [Ruxnasm](https://github.com/karolbelina/ruxnasm)
 - [Uxncle](https://github.com/CPunch/Uxncle)
 - [Uxntal test suite](https://github.com/karolbelina/uxntal-test-suite)
@@ -41,4 +50,8 @@ Awesome things from the community.
 
 ## Applications
 
+- [Dexe](https://wiki.xxiivv.com/site/dexe.html), hex editor
+- [Left](https://wiki.xxiivv.com/site/left.html), text-editor
+- [Nasu](https://wiki.xxiivv.com/site/nasu.html), sprite editor
+- [Noodle](https://wiki.xxiivv.com/site/noodle.html), illustration
 - [Bad Apple!!](https://github.com/karolbelina/bad-apple-uxn)
