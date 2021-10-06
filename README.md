@@ -17,7 +17,7 @@ Awesome things from the community.
 - [Nintendo DS](https://github.com/asiekierka/uxnds)
 - [Playdate](https://git.sr.ht/~rabbits/uxn-playdate)
 - [PlayStation Vita](https://github.com/ivodopiviz/uxnvita)
-- [Rasperry Pi Pico](https://merveilles.town/@alderwick/106222101764116637)
+- [Raspberry Pi Pico](https://merveilles.town/@alderwick/106222101764116637)
 - [Teletype](https://github.com/csboling/teluxn)
 
 ## Development tools
