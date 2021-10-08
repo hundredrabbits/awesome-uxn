@@ -20,6 +20,8 @@ Awesome things from the community.
 
 ## Emulators
 
+- [Desktop(SDL2)](https://git.sr.ht/~rabbits/uxn/)
+- [Desktop(lua)](https://github.com/DeltaF1/uxn-lua)
 - [Browser](https://github.com/aduros/webuxn)
 - [Game Boy Advance](https://git.badd10de.dev/uxngba)
 - [Nintendo DS](https://github.com/asiekierka/uxnds)
