@@ -31,6 +31,23 @@ Awesome things from the community.
 - [Raspberry Pi Pico](https://merveilles.town/@alderwick/106222101764116637)
 - [Teletype](https://github.com/csboling/teluxn)
 
+## Applications
+
+### Creative
+
+- [Left](https://wiki.xxiivv.com/site/left.html), text-editor
+- [Nasu](https://wiki.xxiivv.com/site/nasu.html), sprite editor
+- [Noodle](https://wiki.xxiivv.com/site/noodle.html), illustration
+- [Dexe](https://wiki.xxiivv.com/site/dexe.html), hex editor
+- [Orca](https://git.sr.ht/~rabbits/orca-toy), livecoding IDE
+- [Bad Apple!!](https://github.com/karolbelina/bad-apple-uxn)
+
+### Games
+
+- [Niju](https://hundredrabbits.itch.io/niju)
+- [Flappy](https://github.com/keijiro/uxn-sketches/blob/main/flappy.tal)
+- [Pong](https://compudanzas.net/uxn_tutorial_day_6.html)
+- 
 ## Development tools
 
 ### IDEs
@@ -51,18 +68,3 @@ Awesome things from the community.
 - [Micro syntax](https://nilfm.cc/git/dotfiles/tree/micro/syntax/uxn.yaml)
 - [Vim plugin](https://github.com/karolbelina/uxntal.vim)
 - [Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=karolbelina.uxntal)
-
-## Applications
-
-- [Left](https://wiki.xxiivv.com/site/left.html), text-editor
-- [Nasu](https://wiki.xxiivv.com/site/nasu.html), sprite editor
-- [Noodle](https://wiki.xxiivv.com/site/noodle.html), illustration
-- [Dexe](https://wiki.xxiivv.com/site/dexe.html), hex editor
-- [Orca](https://git.sr.ht/~rabbits/orca-toy), livecoding IDE
-- [Bad Apple!!](https://github.com/karolbelina/bad-apple-uxn)
-
-## Games
-
-- [Niju](https://hundredrabbits.itch.io/niju)
-- [Flappy](https://github.com/keijiro/uxn-sketches/blob/main/flappy.tal)
-- [Pong](https://compudanzas.net/uxn_tutorial_day_6.html)
