@@ -39,8 +39,9 @@ Awesome things from the community.
 
 ### Assemblers & compilers
 
-- [uxnasm](https://git.sr.ht/~rabbits/uxn/tree/main/item/src/uxnasm.c)
-- [Ruxnasm](https://github.com/karolbelina/ruxnasm)
+- [Uxnasm(C)](https://git.sr.ht/~rabbits/uxn/tree/main/item/src/uxnasm.c)
+- [Ruxnasm(Rust)](https://github.com/karolbelina/ruxnasm)
+- [Asma(Uxn)](https://git.sr.ht/~rabbits/uxn/tree/main/item/projects/software/asma.tal)
 - [Uxncle](https://github.com/CPunch/Uxncle)
 - [Uxntal test suite](https://github.com/karolbelina/uxntal-test-suite)
 
@@ -59,3 +60,9 @@ Awesome things from the community.
 - [Dexe](https://wiki.xxiivv.com/site/dexe.html), hex editor
 - [Orca](https://git.sr.ht/~rabbits/orca-toy), livecoding IDE
 - [Bad Apple!!](https://github.com/karolbelina/bad-apple-uxn)
+
+## Games
+
+- [Niju](https://hundredrabbits.itch.io/niju)
+- [Flappy](https://github.com/keijiro/uxn-sketches/blob/main/flappy.tal)
+- [Pong](https://compudanzas.net/uxn_tutorial_day_6.html)
