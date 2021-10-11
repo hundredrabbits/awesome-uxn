@@ -6,6 +6,7 @@ Awesome things from the community.
 
 - [Technical Documentation](https://wiki.xxiivv.com/site/varvara.html)
 - [Assembly Documentation](https://wiki.xxiivv.com/site/uxntal.html)
+- [Sprite Format](https://wiki.xxiivv.com/site/chr_format.html)
 
 ## Community
 
@@ -20,8 +21,8 @@ Awesome things from the community.
 
 ## Emulators
 
-- [Desktop(SDL2)](https://git.sr.ht/~rabbits/uxn/)
-- [Desktop(lua)](https://github.com/DeltaF1/uxn-lua)
+- [Desktop(C)](https://git.sr.ht/~rabbits/uxn/)
+- [Desktop(Lua)](https://github.com/DeltaF1/uxn-lua)
 - [Browser](https://github.com/aduros/webuxn)
 - [Game Boy Advance](https://git.badd10de.dev/uxngba)
 - [Nintendo DS](https://github.com/asiekierka/uxnds)
@@ -52,8 +53,9 @@ Awesome things from the community.
 
 ## Applications
 
-- [Dexe](https://wiki.xxiivv.com/site/dexe.html), hex editor
 - [Left](https://wiki.xxiivv.com/site/left.html), text-editor
 - [Nasu](https://wiki.xxiivv.com/site/nasu.html), sprite editor
 - [Noodle](https://wiki.xxiivv.com/site/noodle.html), illustration
+- [Dexe](https://wiki.xxiivv.com/site/dexe.html), hex editor
+- [Orca](https://git.sr.ht/~rabbits/orca-toy), livecoding IDE
 - [Bad Apple!!](https://github.com/karolbelina/bad-apple-uxn)
