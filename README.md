@@ -47,7 +47,7 @@ Awesome things from the community.
 - [Niju](https://hundredrabbits.itch.io/niju)
 - [Flappy](https://github.com/keijiro/uxn-sketches/blob/main/flappy.tal)
 - [Pong](https://compudanzas.net/uxn_tutorial_day_6.html)
-- 
+
 ## Development tools
 
 ### IDEs
