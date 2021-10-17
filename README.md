@@ -67,6 +67,7 @@ Awesome things from the community.
 ### Uxntal language support
 
 - [Emacs mode](https://github.com/xaderfos/uxntal-mode)
+- [Emacs mode(alt)](https://github.com/rafapaezbas/uxntal-mode)
 - [Micro syntax](https://nilfm.cc/git/dotfiles/tree/micro/syntax/uxn.yaml)
 - [Vim plugin](https://github.com/karolbelina/uxntal.vim)
 - [Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=karolbelina.uxntal)
