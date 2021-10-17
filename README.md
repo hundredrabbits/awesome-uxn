@@ -18,11 +18,13 @@ Awesome things from the community.
 - [compudanzas](https://compudanzas.net/uxn_tutorial.html)
 - [OS X Installation](https://eli.li/2021/09/27/how-to-install-uxn-on-macos)
 - [Windows Installation](https://itch.io/t/1605965/a-quick-guide-to-running-this-software)
+- [Android Installation(Termux)](https://llllllll.co/t/uxn-virtual-computer/46103/253)
 
 ## Emulators
 
 - [Desktop(C)](https://git.sr.ht/~rabbits/uxn/)
 - [Desktop(Lua)](https://github.com/DeltaF1/uxn-lua)
+- [Desktop(LibRetro)](https://github.com/kivutar/uxn)
 - [Browser](https://github.com/aduros/webuxn)
 - [Game Boy Advance](https://git.badd10de.dev/uxngba)
 - [Nintendo DS](https://github.com/asiekierka/uxnds)
