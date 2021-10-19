@@ -65,6 +65,10 @@ Awesome things from the community.
 - [Uxntal test suite](https://github.com/karolbelina/uxntal-test-suite)
 - [C-style Compiler to Uxntal](https://github.com/CPunch/Pyuxncle)
 
+### Network
+
+- [Uxn server over 9p](https://nilfm.cc/git/xrxs/about/)
+
 ### Uxntal language support
 
 - [Emacs mode](https://github.com/xaderfos/uxntal-mode)
