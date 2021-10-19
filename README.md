@@ -63,6 +63,7 @@ Awesome things from the community.
 - [Asma(Uxn)](https://git.sr.ht/~rabbits/uxn/tree/main/item/projects/software/asma.tal)
 - [Uxncle](https://github.com/CPunch/Uxncle)
 - [Uxntal test suite](https://github.com/karolbelina/uxntal-test-suite)
+- [C-style Compiler to Uxntal](https://github.com/CPunch/Pyuxncle)
 
 ### Uxntal language support
 
