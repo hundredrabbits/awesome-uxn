@@ -53,6 +53,7 @@ Awesome things from the community.
 ### Games
 
 - [Niju](https://hundredrabbits.itch.io/niju)
+- [Donsol](https://hundredrabbits.itch.io/donsol)
 - [Flappy](https://github.com/keijiro/uxn-sketches/blob/main/flappy.tal)
 - [Pong](https://compudanzas.net/uxn_tutorial_day_6.html)
 
