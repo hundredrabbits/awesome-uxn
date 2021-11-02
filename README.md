@@ -29,6 +29,7 @@ Awesome things from the community.
 - [Game Boy Advance](https://git.badd10de.dev/uxngba)
 - [Nintendo DS](https://github.com/asiekierka/uxnds)
 - [Playdate](https://git.sr.ht/~rabbits/uxn-playdate)
+- [Logism](https://github.com/DeltaF1/uxn-logisim)
 
 ### In Development 
 
