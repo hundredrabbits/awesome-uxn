@@ -73,6 +73,10 @@ Awesome things from the community.
 - [Uxntal test suite](https://github.com/karolbelina/uxntal-test-suite)
 - [C-style Compiler to Uxntal](https://github.com/CPunch/Pyuxncle)
 
+### Testing
+
+- [Uxntal Test Suite](https://github.com/DeltaF1/uxn-instruction-tests)
+
 ### Network
 
 - [Uxn server over 9p](https://nilfm.cc/git/xrxs/about/)
