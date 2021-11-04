@@ -57,6 +57,7 @@ Awesome things from the community.
 - [Donsol](https://hundredrabbits.itch.io/donsol)
 - [Flappy](https://github.com/keijiro/uxn-sketches/blob/main/flappy.tal)
 - [Pong](https://compudanzas.net/uxn_tutorial_day_6.html)
+- [Snake](https://git.sr.ht/~rabbits/uxn/tree/main/item/projects/examples/demos/snake.tal)
 
 ## Development tools
 
