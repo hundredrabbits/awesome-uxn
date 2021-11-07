@@ -94,16 +94,23 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 
 ### Uxntal language support
 
-- [Uxntal-mode](https://github.com/xaderfos/uxntal-mode) - Emacs mode with syntax highlighting and key bindings.
-- [Uxntal-mode (alt)](https://github.com/rafapaezbas/uxntal-mode) - Emacs mode with syntax highlighting.
-- [Micro syntax](https://nilfm.cc/git/dotfiles/tree/micro/syntax/uxn.yaml) - Syntax file for the Micro editor.
-- [Uxntal.vim](https://github.com/karolbelina/uxntal.vim) - Syntax highlighting and file detection for Vim.
-- [Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=karolbelina.uxntal) - Syntax highlighting for Visual Studio Code.
+- [Emacs mode](https://github.com/xaderfos/uxntal-mode)
+- [Emacs mode (alt)](https://github.com/rafapaezbas/uxntal-mode)
+- [Micro syntax](https://nilfm.cc/git/dotfiles/tree/micro/syntax/uxn.yaml)
+- [Sublime syntax](https://git.sr.ht/~rabbits/uxn/tree/main/item/etc/tal.sublime-syntax)
+- [Vim plugin](https://github.com/karolbelina/uxntal.vim)
+- [Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=karolbelina.uxntal)
+
+## Metadevelopment tools
 
 ### Testing
 
 - [Uxn-instruction-tests](https://github.com/DeltaF1/uxn-instruction-tests) - Test suite for the Uxn CPU instruction set.
 - [Uxntal-test-suite](https://github.com/karolbelina/uxntal-test-suite) - Test suite for Uxntal.
+
+### Benchmarking
+
+- [Bunnymark](http://kira.solar/pub/bunnymark.txt) - Render performance benchmark.
 
 ## Community
 
