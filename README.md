@@ -84,13 +84,14 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 
 ### Assemblers & compilers
 
-- [Uxnasm](https://git.sr.ht/~rabbits/uxn/tree/main/item/src/uxnasm.c) - The original implementation of the Uxn assembler in about 400 lines of ANSI C.
+- [Uxnasm](https://git.sr.ht/~rabbits/uxn/tree/main/item/src/uxnasm.c) - The original implementation of the Uxntal assembler in about 400 lines of ANSI C.
 - [Ruxnasm](https://github.com/karolbelina/ruxnasm) - Uxntal assembler focused on error reporting.
 - [Asma](https://git.sr.ht/~rabbits/uxn/tree/main/item/projects/software/asma.tal) - Uxntal assembler written in Uxntal itself.
 - [Uxncle](https://github.com/CPunch/Uxncle) - Compiler for a small subset of C to Uxn bytecode.
 - [Pyuxncle](https://github.com/CPunch/Pyuxncle) - Python implementation of Uxncle.
 - [Conch](https://github.com/Armael/conch) - Compiler for a C-like language with Lisp-like syntax to Uxn bytecode.
 - [Uxn-ng](https://git.sr.ht/~tenshi/uxn-ng) - Uxntal assembler with bytecode annotating.
+- [Uxnbruteforce](https://github.com/max22-/uxnbruteforce) - A tool for optimizing little pieces of Uxntal code.
 
 ### Uxntal language support
 
