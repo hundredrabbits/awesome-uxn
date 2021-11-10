@@ -65,9 +65,10 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 - [Snake](https://git.sr.ht/~rabbits/uxn/tree/main/item/projects/examples/demos/snake.tal) - Classic Snake game implementation.
 - [Cat Cubes](https://pup.town/catcubes.html) - Puzzle game about matching and clearing tiles from a board.
 
-### Network
+### Networking
 
 - [Xrxs](https://nilfm.cc/git/xrxs/about/) - Experimental game server using the Plan 9 protocol 9p.
+- [Uxnyap](https://github.com/klardotsh/uxnyap) - Helper binary for generic abstract networking.
 
 ### Operating systems
 
