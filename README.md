@@ -27,6 +27,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 - [Uxn-lua](https://github.com/DeltaF1/uxn-lua) - A port of the Uxn instruction set and Varvara virtual computer to Lua and the Love2D game engine.
 - [Libretro port](https://github.com/kivutar/uxn)
 - [Webuxn](https://github.com/aduros/webuxn) - Lightweight port of the Uxn virtual machine to the web via WebAssembly.
+- [EssenceOS](https://gitlab.com/nakst/essence/-/tree/master/ports/uxn) - An implementation for the [Essence operating system](https://gitlab.com/nakst/essence).
 
 ### Other systems
 
