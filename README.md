@@ -55,6 +55,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 
 - [Dexe](https://wiki.xxiivv.com/site/dexe.html) - Graphical hex editor.
 - [Calc](https://git.sr.ht/~rabbits/uxn/tree/main/item/projects/software/calc.tal) - Graphical hexadecimal calculator.
+- [Clock](https://git.sr.ht/~rabbits/uxn/tree/main/item/projects/examples/devices/datetime.tal) - Graphical clock.
 - [Oscean](https://github.com/XXIIVV/oscean/blob/main/src/oscean.tal) - Static site generator.
 
 ### Games
