@@ -14,6 +14,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 ## Tutorials
 
 - [Compudanzas](https://compudanzas.net/uxn_tutorial.html) - Slow-paced, 7-day beginner's guide for programming the Varvara computer.
+- [Learn Uxntal in Y minutes](https://learnxinyminutes.com/docs/uxntal/) - Quick Uxntal guide.
 - [macOS installation](https://eli.li/2021/09/27/how-to-install-uxn-on-macos)
 - [Windows installation](https://itch.io/t/1605965/a-quick-guide-to-running-this-software)
 - [Android installation](https://llllllll.co/t/uxn-virtual-computer/46103/253) - Guide for running Uxn on the Android operating system through Termux.
@@ -25,9 +26,10 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 - [Uxnemu](https://git.sr.ht/~rabbits/uxn/tree/main/item/src/uxnemu.c) - The original implementation of the Uxn emulator.
 - [Uxncli](https://git.sr.ht/~rabbits/uxn/tree/main/item/src/uxncli.c) - Basic command-line interface version of Uxnemu.
 - [Uxn-lua](https://github.com/DeltaF1/uxn-lua) - A port of the Uxn instruction set and Varvara virtual computer to Lua and the [Love2D](https://love2d.org/) game engine.
-- [Libretro port](https://github.com/kivutar/uxn) - Implementation for the [LibRetro](https://www.libretro.com/) emulation layer.
+- [Libretro port](https://github.com/kivutar/uxn) - Implementation for the [Libretro](https://www.libretro.com/) emulation layer.
 - [Webuxn](https://github.com/aduros/webuxn) - Lightweight port of the Uxn virtual machine to the web via WebAssembly.
 - [EssenceOS](https://gitlab.com/nakst/essence/-/tree/master/ports/uxn) - An implementation for the [Essence](https://gitlab.com/nakst/essence) operating system.
+- [Varvara.jl](https://github.com/Ismael-VC/Varvara.jl) - Assembler and emulator for Uxn ported to Julia.
 
 ### Other systems
 
@@ -42,6 +44,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 - [iOS](https://github.com/kylestew/UxniOS)
 - [STM32](https://github.com/kylestew/armuxn)
 - [STM32duino](https://github.com/cassvs/arduxno-demo)
+- [Rockbox](https://tilde.town/~nihilazo/varvara_rockbox.html)
 
 ## Applications
 
@@ -97,6 +100,8 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 - [Conch](https://github.com/Armael/conch) - Compiler for a C-like language with Lisp-like syntax to Uxn bytecode.
 - [Uxn-ng](https://git.sr.ht/~tenshi/uxn-ng) - Uxntal assembler with bytecode annotating.
 - [Uxnbruteforce](https://github.com/max22-/uxnbruteforce) - Tool for optimizing little pieces of Uxntal code.
+- [Uxnlin](https://git.sr.ht/~rabbits/uxnlin) - Linter for Uxntal.
+- [Uxnbot](https://git.sr.ht/~alderwick/uxnbot) - IRC bot for assembling and running small Uxntal snippets.
 
 ### Uxntal language support
 
