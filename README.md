@@ -41,6 +41,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 - [ESP32](https://github.com/max22-/uxn-esp32)
 - [iOS](https://github.com/kylestew/UxniOS)
 - [STM32](https://github.com/kylestew/armuxn)
+- [STM32duino](https://github.com/cassvs/arduxno-demo)
 
 ## Applications
 
