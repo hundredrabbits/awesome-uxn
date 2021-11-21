@@ -109,6 +109,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 
   - [Emacs mode](https://github.com/xaderfos/uxntal-mode)
   - [Emacs mode (alt)](https://github.com/rafapaezbas/uxntal-mode)
+  - [Kakoune syntax](https://git.sr.ht/~athorp96/uxntal.kak)
   - [Micro syntax](https://nilfm.cc/git/dotfiles/tree/micro/syntax/uxn.yaml)
   - [Sublime syntax](https://git.sr.ht/~rabbits/uxn/tree/main/item/etc/tal.sublime-syntax)
   - [Vim plugin](https://github.com/karolbelina/uxntal.vim)
