@@ -56,7 +56,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [Left](https://wiki.xxiivv.com/site/left.html) - Graphical plain-text editor with proportional fonts and Uxntal syntax highlighting.
   - [Nasu](https://wiki.xxiivv.com/site/nasu.html) - Spritesheet editor with the `.chr` format support.
   - [Noodle](https://wiki.xxiivv.com/site/noodle.html) - Illustration tool with animation capabilities.
-  - [Orca](https://git.sr.ht/~rabbits/orca-toy) - Livecoding IDE.
+  - [Orca](https://wiki.xxiivv.com/site/orca.html) - Livecoding IDE.
 
 * Utilities
 
