@@ -93,7 +93,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 
   - [Learn-uxn](https://metasyn.github.io/learn-uxn/) - A web-based development environment with a text editor and up-to-date versions of Uxnasm and Uxnemu.
 
-* Assemblers & compilers
+* Assemblers, compilers & disassemblers
 
   - [Uxnasm](https://git.sr.ht/~rabbits/uxn/tree/main/item/src/uxnasm.c) - The original implementation of the Uxntal assembler in about 400 lines of ANSI C.
   - [Asma](https://git.sr.ht/~rabbits/uxn/tree/main/item/projects/software/asma.tal) - Uxntal assembler written in Uxntal itself.
@@ -105,6 +105,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [Uxnbruteforce](https://github.com/max22-/uxnbruteforce) - Tool for optimizing little pieces of Uxntal code.
   - [Uxnlin](https://git.sr.ht/~rabbits/uxnlin) - Linter for Uxntal.
   - [Uxnbot](https://git.sr.ht/~alderwick/uxnbot) - IRC bot for assembling and running small Uxntal snippets.
+  - [Pyuxntaldisasm](https://github.com/DeltaF1/pyuxntaldisasm) - Very basic disassembler for Uxn ROMs.
 
 * Uxntal language support
 
