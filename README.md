@@ -48,6 +48,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [STM32duino](https://github.com/cassvs/arduxno-demo)
   - [Rockbox](https://tilde.town/~nihilazo/varvara_rockbox.html)
   - [IBM PC](https://github.com/cr1901/pcuxn)
+  - [Grid](https://tildegit.org/nihilazo/grid-uxn)
 
 ## Applications
 
