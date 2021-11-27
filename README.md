@@ -107,6 +107,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [Uxnlin](https://git.sr.ht/~rabbits/uxnlin) - Linter for Uxntal.
   - [Uxnbot](https://git.sr.ht/~alderwick/uxnbot) - IRC bot for assembling and running small Uxntal snippets.
   - [Pyuxntaldisasm](https://github.com/DeltaF1/pyuxntaldisasm) - Very basic disassembler for Uxn ROMs.
+  - [uxnasm-js](https://github.com/rafapaezbas/uxnasm-js) - Uxntal assembler in Javascript.
 
 * Uxntal language support
 
