@@ -81,9 +81,10 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [Xrxs](https://nilfm.cc/git/xrxs/about/) - Experimental game server using the Plan 9 protocol 9p.
   - [Uxnyap](https://github.com/klardotsh/uxnyap) - Helper binary for generic abstract networking.
 
-* Operating systems
+* Operating systems/REPLs
 
   - [Collapse OS](https://collapseos.org/download.html) - Experimental Uxn port of Collapse OS.
+  - [uxnfth](https://git.sr.ht/~binarycat/uxnfth) - Uxn-native forth.
 
 * Demos
 
