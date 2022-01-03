@@ -36,21 +36,24 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 
 * Other systems
 
+  - [Game Boy Advance](https://git.badd10de.dev/uxngba/about/) - Complete.
+  - [Nintendo DS](https://github.com/asiekierka/uxnds) - Complete.
+  - [Playdate](https://git.sr.ht/~rabbits/uxn-playdate) - Complete.
   - [DOS](https://git.sr.ht/~rabbits/uxn-vga) - Implemented: Core, Screen, Mouse, Controller.
-  - [Game Boy Advance](https://git.badd10de.dev/uxngba/about/)
-  - [Nintendo DS](https://github.com/asiekierka/uxnds)
-  - [Playdate](https://git.sr.ht/~rabbits/uxn-playdate)
-  - [Logisim](https://github.com/DeltaF1/uxn-logisim)
-  - [PlayStation Vita](https://github.com/ivodopiviz/uxnvita)
-  - [Raspberry Pi Pico](https://git.sr.ht/~alderwick/pico-uxn)
-  - [Teletype](https://github.com/csboling/teluxn)
-  - [ESP32](https://github.com/max22-/uxn-esp32)
-  - [iOS](https://github.com/kylestew/UxniOS)
-  - [STM32](https://github.com/kylestew/armuxn)
-  - [STM32duino](https://github.com/cassvs/arduxno-demo)
-  - [Rockbox](https://tilde.town/~nihilazo/varvara_rockbox.html)
-  - [IBM PC](https://github.com/cr1901/pcuxn)
-  - [Grid](https://tildegit.org/nihilazo/grid-uxn)
+  - [PlayStation Vita](https://github.com/ivodopiviz/uxnvita) - Incomplete.
+  - [Raspberry Pi Pico](https://git.sr.ht/~alderwick/pico-uxn) - Implemented: Core, Screen.
+  - [Teletype](https://github.com/csboling/teluxn) - Incomplete.
+  - [ESP32](https://github.com/max22-/uxn-esp32) - Incomplete.
+  - [iOS](https://github.com/kylestew/UxniOS) - Incomplete.
+  - [STM32](https://github.com/kylestew/armuxn) - Incomplete.
+  - [STM32duino](https://github.com/cassvs/arduxno-demo) - Incomplete.
+  - [IBM PC](https://github.com/cr1901/pcuxn) - Incomplete.
+
+* Misc
+
+  - [Grid](https://tildegit.org/nihilazo/grid-uxn) - Incomplete.
+  - [Rockbox](https://tilde.town/~nihilazo/varvara_rockbox.html) - Implemented: Core, Screen.
+  - [Logisim](https://github.com/DeltaF1/uxn-logisim) - Incomplete.
 
 ## Applications
 
