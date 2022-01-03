@@ -14,7 +14,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 ## Tutorials
 
 - [Uxn Tutorial by Compudanzas](https://compudanzas.net/uxn_tutorial.html) - Beginner-friendly guide for programming the Varvara computer and a slow-paced companion to the official documentation.
-- [Intro to Uxn Programming by Compudanzas](https://www.youtube.com/watch?v=LrNuq_JgaOA) - Beginner-friendly video workshop which covers the basics of Uxn programming.
+- [Uxn Tutorial by Compudanzas(video)](https://www.youtube.com/watch?v=LrNuq_JgaOA) - Beginner-friendly video workshop which covers the basics of Uxn programming.
 - [Learn Uxntal in Y minutes](https://learnxinyminutes.com/docs/uxntal/) - Quick Uxntal guide.
 - [Uxn implementation guide](https://github.com/DeltaF1/uxn-impl-guide) - Notes on how to implement the Uxn/Varvara virtual machine specification.
 - [macOS installation](https://eli.li/2021/09/27/how-to-install-uxn-on-macos)
