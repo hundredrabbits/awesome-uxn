@@ -25,8 +25,8 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 
 * Desktop
 
-  - [Uxnemu](https://git.sr.ht/~rabbits/uxn/tree/main/item/src/uxnemu.c) - The original implementation of the Uxn emulator.
-  - [Uxncli](https://git.sr.ht/~rabbits/uxn/tree/main/item/src/uxncli.c) - Basic command-line interface version of Uxnemu.
+  - [Uxnemu(SDL2)](https://git.sr.ht/~rabbits/uxn/tree/main/item/src/uxnemu.c) - The original implementation of the Uxn emulator.
+  - [Uxncli(CLI)](https://git.sr.ht/~rabbits/uxn/tree/main/item/src/uxncli.c) - Basic command-line interface version of Uxnemu.
   - [Uxn-lua](https://github.com/DeltaF1/uxn-lua) - A port of the Uxn instruction set and Varvara virtual computer to Lua and the [Love2D](https://love2d.org/) game engine.
   - [Libretro port](https://github.com/kivutar/uxn) - Implementation for the [Libretro](https://www.libretro.com/) emulation layer.
   - [Webuxn](https://github.com/aduros/webuxn) - Lightweight port of the Uxn virtual machine to the web via WebAssembly.
@@ -36,6 +36,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 
 * Other systems
 
+  - [DOS](https://git.sr.ht/~rabbits/uxn-vga) - Implemented: Core, Screen, Mouse, Controller.
   - [Game Boy Advance](https://git.badd10de.dev/uxngba/about/)
   - [Nintendo DS](https://github.com/asiekierka/uxnds)
   - [Playdate](https://git.sr.ht/~rabbits/uxn-playdate)
