@@ -26,6 +26,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 * Desktop
 
   - [Uxnemu(SDL2)](https://git.sr.ht/~rabbits/uxn/tree/main/item/src/uxnemu.c) - The original implementation of the Uxn emulator.
+  - [Uxn32(win32)](https://github.com/randrew/uxn32) - Windows-native Uxn emulator.
   - [Uxncli(CLI)](https://git.sr.ht/~rabbits/uxn/tree/main/item/src/uxncli.c) - Basic command-line interface version of Uxnemu.
   - [Uxn-lua](https://github.com/DeltaF1/uxn-lua) - A port of the Uxn instruction set and Varvara virtual computer to Lua and the [Love2D](https://love2d.org/) game engine.
   - [Libretro port](https://github.com/kivutar/uxn) - Implementation for the [Libretro](https://www.libretro.com/) emulation layer.
