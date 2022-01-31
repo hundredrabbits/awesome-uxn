@@ -96,6 +96,10 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 
   - [Bad-apple-uxn](https://github.com/karolbelina/bad-apple-uxn) - Bad Apple!! video on a single Uxn ROM.
 
+* Libraries
+
+  - [regex](https://gist.github.com/non/4d9060b7a0b9aba0bddadfc6ba3e3442) - Regex parsing in uxn
+
 ## Development tools
 
 * IDEs
