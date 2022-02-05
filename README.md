@@ -55,6 +55,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [Grid](https://tildegit.org/nihilazo/grid-uxn) - Incomplete.
   - [Rockbox](https://tilde.town/~nihilazo/varvara_rockbox.html) - Implemented: Core, Screen.
   - [Logisim](https://github.com/DeltaF1/uxn-logisim) - Incomplete.
+  - [Adafruit PyBadge](https://git.sr.ht/~poyu/uxn-pybadge) - Implemented: Core, Console, Screen, Controller.
 
 ## Applications
 
