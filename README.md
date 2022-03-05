@@ -33,7 +33,6 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [Webuxn](https://github.com/aduros/webuxn) - Lightweight port of the Uxn virtual machine to the web via WebAssembly.
   - [EssenceOS](https://gitlab.com/nakst/essence/-/tree/master/ports/uxn) - An implementation for the [Essence](https://gitlab.com/nakst/essence) operating system.
   - [Varvara.jl](https://github.com/Ismael-VC/Varvara.jl) - Assembler and emulator for Uxn ported to Julia.
-  - [Zabava](https://git.sr.ht/~ft/zabava) - Experimental implementation in Haskell.
 
 * Other systems
 
