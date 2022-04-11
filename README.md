@@ -125,6 +125,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 
 * Uxntal language support
 
+  - [Atom language package](https://atom.io/packages/language-uxntal)
   - [Emacs mode](https://github.com/non/tal-mode) ([alt 1](https://github.com/xaderfos/uxntal-mode) [alt 2](https://github.com/rafapaezbas/uxntal-mode))
   - [Kakoune plugin](https://git.sr.ht/~athorp96/uxntal.kak)
   - [Micro syntax](https://nilfm.cc/git/dotfiles/tree/micro/syntax/uxn.yaml)
