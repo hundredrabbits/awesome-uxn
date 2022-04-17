@@ -25,15 +25,14 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 
 * Desktop
 
-  - [Uxn(SDL2)](https://git.sr.ht/~rabbits/uxn) - Cross-platform emulator.
-  - [Uxn32(windows)](https://github.com/randrew/uxn32) - Win32 emulator.
-  - [Uxn11(linux)](https://git.sr.ht/~rabbits/uxn11) - X11 emulator.
-  - [UxnFb(linux)](https://git.badd10de.dev/uxn-linuxfb/) - Zero-dependencies linux framebuffer emulator.
-  - [Uxn-lua](https://github.com/DeltaF1/uxn-lua) - A port of the Uxn instruction set and Varvara virtual computer to Lua and the [Love2D](https://love2d.org/) game engine.
-  - [Libretro port](https://github.com/kivutar/uxn) - Implementation for the [Libretro](https://www.libretro.com/) emulation layer.
-  - [Webuxn](https://github.com/aduros/webuxn) - Lightweight port of the Uxn virtual machine to the web via WebAssembly.
-  - [EssenceOS](https://gitlab.com/nakst/essence/-/tree/master/ports/uxn) - An implementation for the [Essence](https://gitlab.com/nakst/essence) operating system.
-  - [Varvara.jl](https://github.com/Ismael-VC/Varvara.jl) - Assembler and emulator for Uxn ported to Julia.
+  - [Uxn](https://git.sr.ht/~rabbits/uxn) - Cross-platform emulator and assembler, written in C.
+  - [Uxn32](https://github.com/randrew/uxn32) - Windows emulator, written in C.
+  - [Uxn11](https://git.sr.ht/~rabbits/uxn11) - Linux emulator, written in C.
+  - [Uxn5](https://git.sr.ht/~rabbits/uxn5) - HTML5 emulator, written in Javascript.
+  - [UxnFb](https://git.badd10de.dev/uxn-linuxfb/) - Linux framebuffer emulator, written in C.
+  - [UxnLua](https://github.com/DeltaF1/uxn-lua) - Cross-platform emulator, written in Lua with Love2d.
+  - [UxnEssence](https://gitlab.com/nakst/essence/-/tree/master/ports/uxn) - [Essence](https://gitlab.com/nakst/essence) emulator, written in C.
+  - [UxnJulia](https://github.com/Ismael-VC/Varvara.jl) - Cross-platform emulator and assembler, written in Julia.
 
 * Other systems
 
@@ -52,18 +51,22 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 
 * Misc
 
+  - [Libretro port](https://github.com/kivutar/uxn) - [Libretro](https://www.libretro.com/) emulation layer.
+  - [LearnUxn](https://github.com/metasyn/learn-uxn/) - Web assembler and emulator.
   - [Grid](https://tildegit.org/nihilazo/grid-uxn) - Incomplete.
   - [Rockbox](https://tilde.town/~nihilazo/varvara_rockbox.html) - Implemented: Core, Screen.
   - [Logisim](https://github.com/DeltaF1/uxn-logisim) - Incomplete.
   - [Adafruit PyBadge](https://git.sr.ht/~poyu/uxn-pybadge) - Implemented: Core, Console, Screen, Controller.
+  - [Webuxn](https://github.com/aduros/webuxn) - Lightweight port of the Uxn virtual machine to the web via WebAssembly.
 
 ## Applications
 
 * Creative
 
-  - [Left](https://wiki.xxiivv.com/site/left.html) - Graphical plain-text editor with proportional fonts and Uxntal syntax highlighting.
-  - [Nasu](https://wiki.xxiivv.com/site/nasu.html) - Spritesheet editor with the `.chr` format support.
-  - [Noodle](https://wiki.xxiivv.com/site/noodle.html) - Illustration tool with animation capabilities.
+  - [Left](https://wiki.xxiivv.com/site/left.html) - Graphical plain-text editor with proportional fonts and Uxntal syntax highlight.
+  - [Nasu](https://wiki.xxiivv.com/site/nasu.html) - Spritesheet editor.
+  - [Noodle](https://wiki.xxiivv.com/site/noodle.html) - Drawing tool.
+  - [Turye](https://wiki.xxiivv.com/site/turye.html) - Font editor.
   - [Orca](https://wiki.xxiivv.com/site/orca.html) - Livecoding IDE.
 
 * Utilities
@@ -71,7 +74,6 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [Dexe](https://wiki.xxiivv.com/site/dexe.html) - Graphical hex editor.
   - [Calc](https://git.sr.ht/~rabbits/uxn/tree/main/item/projects/software/calc.tal) - Graphical hexadecimal calculator.
   - [Clock](https://git.sr.ht/~rabbits/uxn/tree/main/item/projects/examples/devices/datetime.tal) - Graphical clock.
-  - [Oscean](https://github.com/XXIIVV/oscean/blob/main/src/oscean.tal) - Static site generator.
   - [Starling](https://git.sr.ht/~cabrendan/starling) - Spreadsheet application.
 
 * Games
@@ -111,7 +113,8 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 * Assemblers, compilers & disassemblers
 
   - [Uxnasm](https://git.sr.ht/~rabbits/uxn/tree/main/item/src/uxnasm.c) - The original implementation of the Uxntal assembler in about 400 lines of ANSI C.
-  - [Asma](https://git.sr.ht/~rabbits/uxn/tree/main/item/projects/software/asma.tal) - Uxntal assembler written in Uxntal itself.
+  - [Asma](https://git.sr.ht/~rabbits/uxn/tree/main/item/projects/software/asma.tal) - Uxntal assembler, written in Uxntal.
+  - [Drifblim](https://wiki.xxiivv.com/site/drifblim.html) - Uxntal Assembler, written in Uxntal.
   - [Ruxnasm](https://github.com/karolbelina/ruxnasm) - Uxntal assembler focused on error reporting.
   - [Uxncle](https://github.com/CPunch/Uxncle) - Compiler for a small subset of C to Uxn bytecode.
   - [Pyuxncle](https://github.com/CPunch/Pyuxncle) - Python implementation of Uxncle.
