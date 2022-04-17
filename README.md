@@ -25,12 +25,12 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 
 * Desktop
 
-  - [Uxn](https://git.sr.ht/~rabbits/uxn) - Cross-platform emulator and assembler, written in C.
+  - [Uxn](https://git.sr.ht/~rabbits/uxn) - Cross-platform emulator and assembler, written in C(SDL2).
   - [Uxn32](https://github.com/randrew/uxn32) - Windows emulator, written in C.
   - [Uxn11](https://git.sr.ht/~rabbits/uxn11) - Linux emulator, written in C.
-  - [Uxn5](https://git.sr.ht/~rabbits/uxn5) - HTML5 emulator, written in Javascript.
+  - [Uxn5](https://git.sr.ht/~rabbits/uxn5) - Web emulator, written in Javascript.
   - [UxnFb](https://git.badd10de.dev/uxn-linuxfb/) - Linux framebuffer emulator, written in C.
-  - [UxnLua](https://github.com/DeltaF1/uxn-lua) - Cross-platform emulator, written in Lua with Love2d.
+  - [UxnLua](https://github.com/DeltaF1/uxn-lua) - Cross-platform emulator, written in Lua(Love2d).
   - [UxnEssence](https://gitlab.com/nakst/essence/-/tree/master/ports/uxn) - [Essence](https://gitlab.com/nakst/essence) emulator, written in C.
   - [UxnJulia](https://github.com/Ismael-VC/Varvara.jl) - Cross-platform emulator and assembler, written in Julia.
 
