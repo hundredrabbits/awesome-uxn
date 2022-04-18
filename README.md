@@ -32,7 +32,6 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [UxnEssence](https://gitlab.com/nakst/essence/-/tree/master/ports/uxn) - [Essence](https://gitlab.com/nakst/essence) emulator, written in C.
   - [UxnJulia](https://github.com/Ismael-VC/Varvara.jl) - Cross-platform emulator and assembler, written in Julia.
   - [UxnLua](https://github.com/DeltaF1/uxn-lua) - Cross-platform emulator, written in Lua(Love2d).
-  - [Uxn5](https://git.sr.ht/~rabbits/uxn5) - Web emulator, written in Javascript.
 
 * Other systems
 
@@ -58,6 +57,11 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [Logisim](https://github.com/DeltaF1/uxn-logisim) - Incomplete.
   - [Adafruit PyBadge](https://git.sr.ht/~poyu/uxn-pybadge) - Implemented: Core, Console, Screen, Controller.
   - [Webuxn](https://github.com/aduros/webuxn) - Lightweight port of the Uxn virtual machine to the web via WebAssembly.
+
+* Simulator
+
+- [uxn.py](https://github.com/max22-/uxnemu.py) - Python implementation of the VM.
+- [Uxn5](https://git.sr.ht/~rabbits/uxn5) - Javascript implementation of the VM.
 
 ## Applications
 
