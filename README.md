@@ -60,8 +60,8 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 
 * Simulator
 
-- [uxn.py](https://github.com/max22-/uxnemu.py) - Python implementation of the VM.
-- [Uxn5](https://git.sr.ht/~rabbits/uxn5) - Javascript implementation of the VM.
+  - [uxn.py](https://github.com/max22-/uxnemu.py) - Python implementation of the VM.
+  - [Uxn5](https://git.sr.ht/~rabbits/uxn5) - Javascript implementation of the VM.
 
 ## Applications
 
