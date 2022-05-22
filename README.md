@@ -20,6 +20,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 - [macOS installation](https://eli.li/2021/09/27/how-to-install-uxn-on-macos)
 - [Windows installation](https://itch.io/t/1605965/a-quick-guide-to-running-this-software)
 - [Android installation](https://llllllll.co/t/uxn-virtual-computer/46103/253) - Guide for running Uxn on the Android operating system through Termux.
+- [HaikuOS](https://discuss.haiku-os.org/t/uxn-ecosystem-on-haiku/12209) - Forum thread for the Haiku operating system.
 
 ## Emulators
 
