@@ -98,7 +98,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 
 * Operating systems/REPLs
 
-  - [Collapse OS](https://collapseos.org/download.html) - Experimental Uxn port of Collapse OS.
+  - [Collapse OS](https://github.com/schierlm/collapseos-uxn) - [CollapseOS](http://collapseos.org/) port for Uxn.
   - [Uxnfth](https://git.sr.ht/~binarycat/uxnfth) - Uxn-native forth.
 
 * Demos
