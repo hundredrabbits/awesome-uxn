@@ -10,6 +10,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 - [Uxntal](https://wiki.xxiivv.com/site/uxntal.html) - Uxntal language reference manual.
 - [Uxntal opcode manual](https://wiki.xxiivv.com/site/uxntal_reference.html) - List of Uxntal opcodes and their effects.
 - [Sprite format](https://wiki.xxiivv.com/site/chr_format.html) - `.chr` file format description.
+- [Font format](https://wiki.xxiivv.com/site/ufx_format.html) - `.ufx` file format description.
 
 ## Tutorials
 
