@@ -100,7 +100,8 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 
 * Operating systems/REPLs
 
-  - [Collapse OS](https://github.com/schierlm/collapseos-uxn) - [CollapseOS](http://collapseos.org/) port for Uxn.
+  - [UF](http://www.call-with-current-continuation.org/uf/uf.html) - A traditional Forth system for Varvara.
+  - [CollapseOS](https://github.com/schierlm/collapseos-uxn) - Forth-based [operating system](http://collapseos.org/) for Varvara.
   - [Uxnfth](https://git.sr.ht/~binarycat/uxnfth) - Uxn-native forth.
 
 * Demos
