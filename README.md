@@ -40,6 +40,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 
   - [Game Boy Advance](https://git.badd10de.dev/uxngba/about/) - Complete.
   - [Nintendo DS](https://github.com/asiekierka/uxnds) - Complete.
+  - [Game Boy](https://github.com/tbsp/uxngb) - Experimental.
   - [Playdate](https://git.sr.ht/~rabbits/uxn-playdate) - Complete.
   - [DOS](https://git.sr.ht/~rabbits/uxn-vga) - Implemented: Core, Screen, Mouse, Controller.
   - [PlayStation Vita](https://github.com/ivodopiviz/uxnvita) - Incomplete.
