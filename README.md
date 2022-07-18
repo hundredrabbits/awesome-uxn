@@ -76,6 +76,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [Noodle](https://wiki.xxiivv.com/site/noodle.html) - Drawing tool.
   - [Turye](https://wiki.xxiivv.com/site/turye.html) - Font editor.
   - [Orca](https://wiki.xxiivv.com/site/orca.html) - Livecoding IDE.
+  - [uxn-harp](https://github.com/lynn/uxn-harp) - Chordal musical toy.
 
 * Utilities
 
