@@ -51,6 +51,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [STM32](https://github.com/kylestew/armuxn) - Incomplete.
   - [STM32duino](https://github.com/cassvs/arduxno-demo) - Incomplete.
   - [IBM PC](https://github.com/cr1901/pcuxn) - Incomplete.
+  - [Nokia N900](https://git.sr.ht/~foura/uxn900) - Incomplete.
 
 * Misc
 
