@@ -114,7 +114,13 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 
 * Libraries
 
-  - [regex](https://gist.github.com/non/4d9060b7a0b9aba0bddadfc6ba3e3442) - Regex parsing in uxn
+  - [math32](http://plastic-idolatry.com/erik/nxu/math32.tal) - Unsigned 32-bit integers
+  - [regex](http://plastic-idolatry.com/erik/nxu/regex.tal) - Regex parsing and matching ([repl](http://plastic-idolatry.com/erik/nxu/repl-regex.tal)
+
+* Terminal / Command-line
+
+  - [femto](http://plastic-idolatry.com/erik/nxu/femto.tal) - nano-like text editor ([about](http://plastic-idolatry.com/erik/nxu/femto.txt) [launcher](http://plastic-idolatry.com/erik/nxu/femto) [rom](http://plastic-idolatry.com/erik/nxu/femto.rom))
+  - [grep](http://plastic-idolatry.com/erik/nxu/grep.tal) - minimal grep-like tool (uses regex.tal)
 
 ## Development tools
 
@@ -141,7 +147,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 * Uxntal language support
 
   - [Atom language package](https://atom.io/packages/language-uxntal)
-  - [Emacs mode](https://github.com/non/tal-mode) ([alt 1](https://github.com/xaderfos/uxntal-mode) [alt 2](https://github.com/rafapaezbas/uxntal-mode))
+  - [Emacs mode](https://github.com/non/uxntal-mode) ([alt 1](https://github.com/xaderfos/uxntal-mode) [alt 2](https://github.com/rafapaezbas/uxntal-mode))
   - [Kakoune plugin](https://git.sr.ht/~athorp96/uxntal.kak)
   - [Micro syntax](https://nilfm.cc/git/dotfiles/tree/micro/syntax/uxn.yaml)
   - [Nano syntax](https://codeberg.org/sejo/uxntal.nanorc)
