@@ -56,7 +56,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 * Misc
 
   - [Libretro port](https://github.com/kivutar/uxn) - [Libretro](https://www.libretro.com/) emulation layer.
-  - [LearnUxn](https://github.com/metasyn/learn-uxn/) - Web assembler and emulator.
+  - [LearnUxn](https://git.sr.ht/~metasyn/learn-uxn/) - Web assembler and emulator.
   - [Grid](https://tildegit.org/nihilazo/grid-uxn) - Incomplete.
   - [Rockbox](https://tilde.town/~nihilazo/varvara_rockbox.html) - Implemented: Core, Screen.
   - [Logisim](https://github.com/DeltaF1/uxn-logisim) - Incomplete.
@@ -127,7 +127,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 
 * IDEs
 
-  - [Learn-uxn](https://metasyn.github.io/learn-uxn/) - A web-based development environment with a text editor and up-to-date versions of Uxnasm and Uxnemu.
+  - [Learn-uxn](https://metasyn.srht.site/learn-uxn/) - A web-based development environment with a text editor and up-to-date versions of Uxnasm and Uxnemu.
 
 * Assemblers, compilers & disassemblers
 
