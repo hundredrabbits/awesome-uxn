@@ -42,7 +42,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [Game Boy Advance](https://git.badd10de.dev/uxngba) - Complete.
   - [Nintendo DS](https://github.com/asiekierka/uxnds) - Complete.
   - [Playdate](https://git.sr.ht/~rabbits/uxn-playdate) - Complete.
-  - [Nook eReader](https://git.badd10de.dev/uxnnst/) - Partial.
+  - [Nook eReader](https://git.badd10de.dev/uxnnst/) - Complete.
   - [Game Boy](https://github.com/tbsp/uxngb) - Experimental.
   - [DOS](https://git.sr.ht/~rabbits/uxn-vga) - Implemented: Core, Screen, Mouse, Controller.
   - [Raspberry Pi Pico](https://git.sr.ht/~alderwick/pico-uxn) - Partial
