@@ -30,7 +30,8 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [Uxn](https://git.sr.ht/~rabbits/uxn) - Cross-platform emulator and assembler, written in C(SDL2).
   - [Uxn32](https://github.com/randrew/uxn32) - Windows emulator, written in C.
   - [Uxn11](https://git.sr.ht/~rabbits/uxn11) - Linux emulator, written in C.
-  - [UxnFb](https://git.badd10de.dev/uxn-linuxfb/) - Linux framebuffer emulator, written in C.
+  - [UxnFb](https://git.badd10de.dev/uxnfb) - Linux framebuffer emulator, written in C.
+  - [UxnRPI](https://git.badd10de.dev/uxnrpi) - RaspberryPi framebuffer emulator, written in C.
   - [UxnAmiga](https://code.mathr.co.uk/uxn-amiga) - AmigaOS emulator, written in C.
   - [UxnEssence](https://gitlab.com/nakst/essence/-/tree/master/ports/uxn) - [Essence](https://gitlab.com/nakst/essence) emulator, written in C.
   - [UxnJulia](https://github.com/Ismael-VC/Varvara.jl) - Cross-platform emulator and assembler, written in Julia.
@@ -38,13 +39,13 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 
 * Other systems
 
-  - [Game Boy Advance](https://git.badd10de.dev/uxngba/about/) - Complete.
+  - [Game Boy Advance](https://git.badd10de.dev/uxngba) - Complete.
   - [Nintendo DS](https://github.com/asiekierka/uxnds) - Complete.
-  - [Game Boy](https://github.com/tbsp/uxngb) - Experimental.
   - [Playdate](https://git.sr.ht/~rabbits/uxn-playdate) - Complete.
+  - [Nook eReader](https://git.badd10de.dev/uxnnst/) - Partial.
+  - [Game Boy](https://github.com/tbsp/uxngb) - Experimental.
   - [DOS](https://git.sr.ht/~rabbits/uxn-vga) - Implemented: Core, Screen, Mouse, Controller.
-  - [PlayStation Vita](https://github.com/ivodopiviz/uxnvita) - Incomplete.
-  - [Raspberry Pi Pico](https://git.sr.ht/~alderwick/pico-uxn) - Implemented: Core, Screen.
+  - [Raspberry Pi Pico](https://git.sr.ht/~alderwick/pico-uxn) - Partial
   - [Teletype](https://github.com/csboling/teluxn) - Incomplete.
   - [ESP32](https://github.com/max22-/uxn-esp32) - Incomplete.
   - [iOS](https://github.com/kylestew/UxniOS) - Incomplete.
@@ -52,6 +53,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [STM32duino](https://github.com/cassvs/arduxno-demo) - Incomplete.
   - [IBM PC](https://github.com/cr1901/pcuxn) - Incomplete.
   - [Nokia N900](https://git.sr.ht/~foura/uxn900) - Incomplete.
+  - [PlayStation Vita](https://github.com/ivodopiviz/uxnvita) - Incomplete.
 
 * Misc
 
