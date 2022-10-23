@@ -40,6 +40,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 * Other systems
 
   - [Game Boy Advance](https://git.badd10de.dev/uxngba) - Complete.
+  - [Nintendo 64](https://git.badd10de.dev/uxn64) - Complete.
   - [Nintendo DS](https://github.com/asiekierka/uxnds) - Complete.
   - [Playdate](https://git.sr.ht/~rabbits/uxn-playdate) - Complete.
   - [Nook eReader](https://git.badd10de.dev/uxnnst/) - Complete.
