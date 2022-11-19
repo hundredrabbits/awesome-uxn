@@ -111,6 +111,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [UF](http://www.call-with-current-continuation.org/uf/uf.html) - A traditional Forth system for Varvara.
   - [CollapseOS](https://github.com/schierlm/collapseos-uxn) - Forth-based [operating system](http://collapseos.org/) for Varvara.
   - [Uxnfth](https://git.sr.ht/~binarycat/uxnfth) - Uxn-native forth.
+  - [PotatoOS](http://wiki.xxiivv.com/site/potato.html) - A little desktop environment.
 
 * Demos
 
@@ -149,6 +150,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [Pyuxntaldisasm](https://github.com/DeltaF1/pyuxntaldisasm) - Very basic disassembler for Uxn ROMs.
   - [Uxnasm-js](https://github.com/rafapaezbas/uxnasm-js) - Uxntal assembler written in JavaScript.
   - [Uxn-disassembler](https://github.com/Liorst4/uxn-disassembler) - A rom disassembler writen in Uxntal 
+  - [Dotal](https://github.com/HParker/dotal) - A small language designed to compile to the Uxn virtual machine.
 
 * Uxntal language support
 
