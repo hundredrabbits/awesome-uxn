@@ -122,6 +122,8 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 
   - [math32](http://plastic-idolatry.com/erik/nxu/math32.tal) - Unsigned 32-bit integers
   - [regex](http://plastic-idolatry.com/erik/nxu/regex.tal) - Regex parsing and matching ([repl](http://plastic-idolatry.com/erik/nxu/repl-regex.tal))
+  - [fix16](http://plastic-idolatry.com/erik/nxu/fix16.tal) - Signed 16-bit fixed point numbers (8.8)
+  - [alloc](http://plastic-idolatry.com/erik/nxu/alloc.tal) - Arena-based memory allocator
 
 * Terminal / Command-line
 
