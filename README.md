@@ -89,6 +89,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [Calc](https://git.sr.ht/~rabbits/uxn/tree/main/item/projects/software/calc.tal) - Graphical hexadecimal calculator.
   - [Clock](https://git.sr.ht/~rabbits/uxn/tree/main/item/projects/examples/devices/datetime.tal) - Graphical clock.
   - [Starling](https://git.sr.ht/~cabrendan/starling) - Spreadsheet application.
+  - [Beetbug](https://git.sr.ht/~rabbits/beetbug) - Step debugger.
 
 * Games
 
