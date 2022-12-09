@@ -177,7 +177,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 
 * Benchmarking
 
-  - [Bunnymark](https://codeberg.org/kira/bunnymark) - Render performance benchmark.
+  - [Bunnymark](https://codeberg.org/kira/uxn-demos/src/branch/master/bunnymark.tal) - Render performance benchmark.
 
 ## Community
 
