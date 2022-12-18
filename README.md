@@ -51,6 +51,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [Raspberry Pi Pico](https://git.sr.ht/~alderwick/pico-uxn) - Partial
   - [Teletype](https://github.com/csboling/teluxn) - Incomplete.
   - [ESP32](https://github.com/max22-/uxn-esp32) - Incomplete.
+  - [iOS](https://github.com/paiv/uxn-ios) - Nearly Complete (missing midi and controller).
   - [iOS](https://github.com/kylestew/UxniOS) - Incomplete.
   - [STM32](https://github.com/kylestew/armuxn) - Incomplete.
   - [STM32duino](https://github.com/cassvs/arduxno-demo) - Incomplete.
