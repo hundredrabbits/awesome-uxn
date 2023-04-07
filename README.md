@@ -103,7 +103,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [Snake](https://git.sr.ht/~rabbits/uxn/tree/main/item/projects/examples/demos/snake.tal) - Classic Snake game implementation.
   - [Cat Cubes](https://pup.town/catcubes.html) - Puzzle game about matching and clearing tiles from a board.
   - [Minesweeper](https://git.sr.ht/~rabbits/minesweeper) - Minesweeper port for Varvara.
-  - [TicTacToe](https://melanocarpa.lesarbr.es/hypha/xo.tal) - TicTacToe for Varvara.
+  - [XO](https://garden.bouncepaw.com/hypha/xo.tal) - TicTacToe for Varvara.
 
 * Networking
 
