@@ -37,6 +37,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [UxnJulia](https://github.com/Ismael-VC/Varvara.jl) - Cross-platform emulator and assembler, written in Julia.
   - [UxnLua](https://github.com/DeltaF1/uxn-lua) - Cross-platform emulator, written in Lua(Love2d).
   - [Uxn38](http://zzo38computer.org/fossil/uxn.ui) - Emulator written in C with SDL1.
+   -[Nux](https://github.com/nf/nux) - Emulator written in Go.
 
 * Other systems
 
