@@ -159,6 +159,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [Uxnasm-js](https://github.com/rafapaezbas/uxnasm-js) - Uxntal assembler written in JavaScript.
   - [Uxn-disassembler](https://github.com/Liorst4/uxn-disassembler) - A rom disassembler writen in Uxntal 
   - [Dotal](https://github.com/HParker/dotal) - A small language designed to compile to the Uxn virtual machine.
+  - [lunas](https://github.com/ThaCuber/lunas) - An Uxntal assembler written in Lua.
 
 * Uxntal language support
 
