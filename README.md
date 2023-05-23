@@ -171,7 +171,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [Micro syntax](https://hacklab.nilfm.cc/dotfiles/blob/main/micro/syntax/uxn.yaml)
   - [Nano syntax](https://codeberg.org/sejo/uxntal.nanorc)
   - [Nano syntax(alt)](https://git.sr.ht/~cassvs/uxntal-nano)
-  - [Sublime syntax](https://git.sr.ht/~rabbits/uxn/tree/main/item/etc/tal.sublime-syntax)
+  - [Sublime syntax](https://git.sr.ht/~rabbits/uxn/tree/main/item/etc/syntax-highlight/tal.sublime-syntax)
   - [Vim plugin](https://github.com/karolbelina/uxntal.vim)
   - [Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=karolbelina.uxntal)
 
