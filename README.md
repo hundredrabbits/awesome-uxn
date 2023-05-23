@@ -49,7 +49,6 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [Nokia N900](https://git.sr.ht/~foura/uxn900) - Partial.
   - [Game Boy](https://github.com/tbsp/uxngb) - Experimental.
   - [DOS](https://git.sr.ht/~rabbits/uxn-vga) - Implemented: Core, Screen, Mouse, Controller.
-  - [Raspberry Pi Pico](https://git.sr.ht/~alderwick/pico-uxn) - Partial
   - [Teletype](https://github.com/csboling/teluxn) - Incomplete.
   - [ESP32](https://github.com/max22-/uxn-esp32) - Incomplete.
   - [iOS](https://github.com/paiv/uxn-ios) - Nearly Complete (missing midi and controller).
