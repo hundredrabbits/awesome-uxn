@@ -105,6 +105,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [Minesweeper](https://git.sr.ht/~rabbits/minesweeper) - Minesweeper port for Varvara.
   - [XO](https://garden.bouncepaw.com/hypha/xo.tal) - TicTacToe for Varvara.
   - [Fourtette](https://github.com/nf/fourtette) - Tetris for Varvara.
+  - [Shanghai](https://github.com/lynn/shanghai) - Mahjong Solitaire for Varvara.
 
 * Networking
 
