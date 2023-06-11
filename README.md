@@ -106,6 +106,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [XO](https://garden.bouncepaw.com/hypha/xo.tal) - TicTacToe for Varvara.
   - [Fourtette](https://github.com/nf/fourtette) - Tetris for Varvara.
   - [Shanghai](https://github.com/lynn/shanghai) - Mahjong Solitaire for Varvara.
+  - [Pinkie Run](https://github.com/Jaezmien/pinkie-run) - Pony-themed Endless Runner for Varvara.
 
 * Networking
 
