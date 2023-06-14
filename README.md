@@ -183,7 +183,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 
   - [Uxn-instruction-tests](https://github.com/DeltaF1/uxn-instruction-tests) - Test suite for the Uxn CPU instruction set.
   - [Uxntal-test-suite](https://github.com/karolbelina/uxntal-test-suite) - Test suite for Uxntal.
-  - [tests.tal](https://git.sr.ht/~rabbits/uxn/tree/main/item/projects/utils/tests.tal) - Test suite included in the uxn repository.
+  - [opctest](https://git.sr.ht/~rabbits/uxn/tree/main/item/projects/utils/tests.tal) - Test suite included in the uxn repository.
 
 * Benchmarking
 
