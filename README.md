@@ -163,6 +163,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [Uxn-disassembler](https://github.com/Liorst4/uxn-disassembler) - A rom disassembler writen in Uxntal 
   - [Dotal](https://github.com/HParker/dotal) - A small language designed to compile to the Uxn virtual machine.
   - [lunas](https://github.com/ThaCuber/lunas) - An Uxntal assembler written in Lua.
+  - [chibicc-uxn](https://github.com/lynn/chibicc) - A C compiler for Uxn, written in C.
 
 * Uxntal language support
 
