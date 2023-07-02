@@ -107,6 +107,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [Fourtette](https://github.com/nf/fourtette) - Tetris for Varvara.
   - [Shanghai](https://github.com/lynn/shanghai) - Mahjong Solitaire for Varvara.
   - [Pinkie Run](https://github.com/Jaezmien/pinkie-run) - Pony-themed Endless Runner for Varvara.
+  - [oneko-uxn](https://github.com/hikari-no-yume/oneko-uxn) - A version of “Neko”, the classic desktop pet cat, with several characters.
 
 * Networking
 
