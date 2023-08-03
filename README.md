@@ -41,6 +41,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [Nux](https://github.com/nf/nux) - Emulator written in Go.
   - [uxn-rs](https://git.sr.ht/~liorst4/uxn-rs) - Emulator written in Rust.
   - [ruxn](https://github.com/CrashAndSideburns/ruxn) - A Uxn library written in Rust, intended to make defining new Uxn-based systems easy.
+  - [zuxn](https://github.com/chmod222/zuxn) - A Uxn library, emulator and assembler written in Zig.
 
 * Other systems
 
