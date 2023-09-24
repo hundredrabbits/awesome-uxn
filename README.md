@@ -32,8 +32,8 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [Uxn32](https://github.com/randrew/uxn32) - Windows emulator, written in C.
   - [Uxn11](https://git.sr.ht/~rabbits/uxn11) - Linux emulator, written in C.
   - [UxnFb](https://git.badd10de.dev/uxnfb) - Linux framebuffer emulator, written in C.
-  - [UxnRPI](https://git.badd10de.dev/uxnrpi) - RaspberryPi framebuffer emulator, written in C.
-  - [UxnAmiga](https://code.mathr.co.uk/uxn-amiga) - AmigaOS emulator, written in C.
+  - [UxnRPI](https://git.badd10de.dev/uxnrpi) - RaspberryPi framebuffer emulator, written in C. (no input support)
+  - [UxnAmiga](https://code.mathr.co.uk/uxn-amiga) - AmigaOS emulator, written in C. (no keyboard or joystick input, no audio support)
   - [UxnEssence](https://gitlab.com/nakst/essence/-/tree/master/ports/uxn) - [Essence](https://gitlab.com/nakst/essence) emulator, written in C.
   - [UxnJulia](https://github.com/Ismael-VC/Varvara.jl) - Cross-platform emulator and assembler, written in Julia.
   - [UxnLua](https://github.com/DeltaF1/uxn-lua) - Cross-platform emulator, written in Lua(Love2d).
