@@ -39,7 +39,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [UxnLua](https://github.com/DeltaF1/uxn-lua) - Cross-platform emulator, written in Lua(Love2d).
   - [Uxn38](http://zzo38computer.org/fossil/uxn.ui) - Emulator written in C with SDL1.
   - [Nux](https://github.com/nf/nux) - Emulator written in Go.
-  - [uxn-rs](https://git.sr.ht/~liorst4/uxn-rs) - Emulator written in Rust.
+  - [uxn-rs](https://github.com/Liorst4/uxn-rs) - Emulator written in Rust.
   - [ruxn](https://github.com/CrashAndSideburns/ruxn) - A Uxn library written in Rust, intended to make defining new Uxn-based systems easy.
   - [zuxn](https://github.com/chmod222/zuxn) - A Uxn library, emulator and assembler written in Zig.
 
