@@ -170,6 +170,8 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [Dotal](https://github.com/HParker/dotal) - A small language designed to compile to the Uxn virtual machine.
   - [lunas](https://github.com/ThaCuber/lunas) - An Uxntal assembler written in Lua.
   - [chibicc-uxn](https://github.com/lynn/chibicc) - A C compiler for Uxn, written in C.
+  - [nito](https://codeberg.org/wimvanderbauwhede/nito) - A compiler from Uxntal to C, written in Raku. See also the [blog post](https://limited.systems/articles/uxntal-to-C/).
+  - [funktal](https://codeberg.org/wimvanderbauwhede/funktal) - A small, statically typed, functional programming language that compiles to Uxntal. The compiler is written in Fortran. See also the [blog post](https://limited.systems/articles/funktal).
 
 * Uxntal language support
 
