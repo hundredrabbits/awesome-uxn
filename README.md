@@ -74,6 +74,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [Adafruit PyBadge](https://git.sr.ht/~poyu/uxn-pybadge) - Implemented: Core, Console, Screen, Controller.
   - [Webuxn](https://github.com/aduros/webuxn) - Lightweight port of the Uxn virtual machine to the web via WebAssembly.
   - [auxn](https://github.com/saucesaft/auxn) - uxn running inside of an audio plugin (standalone mode included)
+  - [UxnWasm](https://github.com/remko/uxn.wasm) - WebAssembly implementation of the Uxn core.
 
 * Simulator
 
