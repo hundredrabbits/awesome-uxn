@@ -118,7 +118,6 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 * Networking
 
   - [Xrxs](https://nilfm.cc/git/xrxs/about/) - Experimental game server using the Plan 9 protocol 9p.
-  - [Uxnyap](https://github.com/klardotsh/uxnyap) - Helper binary for generic abstract networking.
 
 * Operating systems/REPLs
 
@@ -157,7 +156,6 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [Uxnasm](https://git.sr.ht/~rabbits/uxn/tree/main/item/src/uxnasm.c) - The original implementation of the Uxntal assembler in about 400 lines of ANSI C.
   - [Asma](https://git.sr.ht/~rabbits/uxn/tree/main/item/projects/software/asma.tal) - Uxntal assembler, written in Uxntal.
   - [Drifblim](https://wiki.xxiivv.com/site/drifblim.html) - Uxntal Assembler, written in Uxntal.
-  - [Ruxnasm](https://github.com/karolbelina/ruxnasm) - Uxntal assembler focused on error reporting.
   - [Uxncle](https://github.com/CPunch/Uxncle) - Compiler for a small subset of C to Uxn bytecode.
   - [Pyuxncle](https://github.com/CPunch/Pyuxncle) - Python implementation of Uxncle.
   - [Conch](https://github.com/Armael/conch) - Compiler for a C-like language with Lisp-like syntax to Uxn bytecode.
@@ -192,7 +190,6 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 * Testing
 
   - [Uxn-instruction-tests](https://github.com/DeltaF1/uxn-instruction-tests) - Test suite for the Uxn CPU instruction set.
-  - [Uxntal-test-suite](https://github.com/karolbelina/uxntal-test-suite) - Test suite for Uxntal.
   - [opctest](https://git.sr.ht/~rabbits/uxn/tree/main/item/projects/utils/tests.tal) - Test suite included in the uxn repository.
 
 * Benchmarking
