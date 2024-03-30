@@ -45,6 +45,8 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 
 * Other systems
 
+  - [FPGA](https://github.com/tsalvo/uxn-fpga) - Nearly Complete.
+  - [RPi](https://github.com/ar-nelson/uxnpi) - Nearly Complete.
   - [Game Boy Advance](https://git.badd10de.dev/uxngba) - Complete.
   - [Nintendo 64](https://git.badd10de.dev/uxn64) - Complete.
   - [Nintendo DS](https://github.com/asiekierka/uxnds) - Complete.
