@@ -164,7 +164,6 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [Uxncle](https://github.com/CPunch/Uxncle) - Compiler for a small subset of C to Uxn bytecode.
   - [Pyuxncle](https://github.com/CPunch/Pyuxncle) - Python implementation of Uxncle.
   - [Conch](https://github.com/Armael/conch) - Compiler for a C-like language with Lisp-like syntax to Uxn bytecode.
-  - [Uxn-ng](https://git.sr.ht/~tenshi/uxn-ng) - Uxntal assembler with bytecode annotating.
   - [Uxnbruteforce](https://github.com/max22-/uxnbruteforce) - Tool for optimizing little pieces of Uxntal code.
   - [Uxnlin](https://git.sr.ht/~rabbits/uxnlin) - Linter for Uxntal.
   - [Uxnbot](https://git.sr.ht/~alderwick/uxnbot) - IRC bot for assembling and running small Uxntal snippets.
