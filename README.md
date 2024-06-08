@@ -192,9 +192,9 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 ## Metadevelopment tools
 
 * Testing
-
-  - [Uxn-instruction-tests](https://github.com/DeltaF1/uxn-instruction-tests) - Test suite for the Uxn CPU instruction set.
-  - [opctest](https://git.sr.ht/~rabbits/uxn/tree/main/item/projects/utils/tests.tal) - Test suite included in the uxn repository.
+  - Reference test suite included in the `uxn-utils` repository: [opctest](https://git.sr.ht/~rabbits/uxn-utils/blob/main/cli/opctest/opctest.tal).
+  - Others
+    * [Uxn-instruction-tests](https://github.com/DeltaF1/uxn-instruction-tests) - Test suite for the Uxn CPU instruction set.
 
 * Benchmarking
 
