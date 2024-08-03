@@ -140,16 +140,16 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 
 * Libraries
 
-  - [math32](http://plastic-idolatry.com/erik/nxu/math32.tal) - Unsigned 32-bit integers
-  - [regex](http://plastic-idolatry.com/erik/nxu/regex.tal) - Regex parsing and matching ([repl](http://plastic-idolatry.com/erik/nxu/repl-regex.tal))
-  - [fix16](http://plastic-idolatry.com/erik/nxu/fix16.tal) - Signed 16-bit fixed point numbers (8.8)
-  - [alloc](http://plastic-idolatry.com/erik/nxu/alloc.tal) - Arena-based memory allocator
-  - [arg](http://plastic-idolatry.com/erik/nxu/arg.tal) - Command-line argument parsing ([demo](http://plastic-idolatry.com/erik/nxu/alloc-demo.tal))
+  - [math32](https://git.phial.org/d6/nxu/raw/branch/main/math32.tal) - Unsigned 32-bit integers
+  - [regex](https://git.phial.org/d6/nxu/raw/branch/main/regex.tal) - Regex parsing and matching ([repl](https://git.phial.org/d6/nxu/raw/branch/main/repl-regex.tal))
+  - [fix16](https://git.phial.org/d6/nxu/raw/branch/main/fix16.tal) - Signed 16-bit fixed point numbers (8.8)
+  - [alloc](https://git.phial.org/d6/nxu/raw/branch/main/alloc.tal) - Arena-based memory allocator
+  - [arg](https://git.phial.org/d6/nxu/raw/branch/main/arg.tal) - Command-line argument parsing ([demo](https://git.phial.org/d6/nxu/raw/branch/main/arg-demo.tal))
 
 * Terminal / Command-line
 
-  - [femto](http://plastic-idolatry.com/erik/nxu/femto.tal) - nano-like text editor ([about](http://plastic-idolatry.com/erik/nxu/femto.txt) / [launcher](http://plastic-idolatry.com/erik/nxu/femto) / [rom](http://plastic-idolatry.com/erik/nxu/femto.rom))
-  - [grep](http://plastic-idolatry.com/erik/nxu/grep.tal) - minimal grep-like tool (uses regex.tal)
+  - [femto](https://git.phial.org/d6/nxu/raw/branch/main/femto.tal) - nano-like text editor ([about](https://git.phial.org/d6/nxu/raw/branch/main/femto.txt) / [launcher](https://git.phial.org/d6/nxu/raw/branch/main/femto) / [rom](http://plastic-idolatry.com/erik/nxu/femto.rom))
+  - [grep](https://git.phial.org/d6/nxu/raw/branch/main/grep.tal) - minimal grep-like tool (uses regex.tal)
 
 ## Development tools
 
