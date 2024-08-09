@@ -26,7 +26,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 
 ## Emulators
 
-* Desktop
+### Desktop
 
   - [Uxn](https://git.sr.ht/~rabbits/uxn) - Cross-platform emulator and assembler, written in C(SDL2).
   - [Uxn32](https://github.com/randrew/uxn32) - Windows emulator, written in C.
@@ -44,7 +44,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [ruxn](https://github.com/CrashAndSideburns/ruxn) - A Uxn library written in Rust, intended to make defining new Uxn-based systems easy.
   - [zuxn](https://github.com/chmod222/zuxn) - A Uxn library, emulator and assembler written in Zig.
 
-* Other systems
+### Other systems
 
   - [FPGA](https://github.com/tsalvo/uxn-fpga) - Nearly Complete.
   - [RPi](https://github.com/ar-nelson/uxnpi) - Nearly Complete.
@@ -67,7 +67,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [PlayStation Portable](https://codeberg.org/tbsp/VarvaraPSP) - Nearly Complete (missing keyboard).
   - [Atari ST](https://framagit.org/Bartitsu59/stuxn) - Incomplete.
 
-* Misc
+### Misc
 
   - [Libretro port](https://github.com/kivutar/uxn) - [Libretro](https://www.libretro.com/) emulation layer.
   - [LearnUxn](https://git.sr.ht/~metasyn/learn-uxn/) - Web assembler and emulator.
@@ -79,14 +79,14 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [auxn](https://github.com/saucesaft/auxn) - uxn running inside of an audio plugin (standalone mode included)
   - [UxnWasm](https://github.com/remko/uxn.wasm) - WebAssembly implementation of the Uxn core.
 
-* Simulator
+### Simulator
 
   - [uxn.py](https://github.com/max22-/uxnemu.py) - Python implementation of the VM.
   - [uxn.js](https://git.sr.ht/~rabbits/uxn5) - Javascript implementation of the VM.
 
 ## Applications
 
-* Creative
+### Creative
 
   - [Left](https://wiki.xxiivv.com/site/left.html) - Graphical plain-text editor with proportional fonts and Uxntal syntax highlight.
   - [Nasu](https://wiki.xxiivv.com/site/nasu.html) - Spritesheet editor.
@@ -95,7 +95,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [Orca](https://wiki.xxiivv.com/site/orca.html) - Livecoding IDE.
   - [uxn-harp](https://github.com/lynn/uxn-harp) - Chordal musical toy.
 
-* Utilities
+### Utilities
 
   - [Dexe](https://wiki.xxiivv.com/site/dexe.html) - Graphical hex editor.
   - [Calc](https://git.sr.ht/~rabbits/uxn/tree/main/item/projects/software/calc.tal) - Graphical hexadecimal calculator.
@@ -103,7 +103,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [Starling](https://git.sr.ht/~cabrendan/starling) - Spreadsheet application.
   - [Beetbug](https://git.sr.ht/~rabbits/beetbug) - Step debugger.
 
-* Games
+### Games
 
   - [Niju](https://hundredrabbits.itch.io/niju) - Hiragana and katakana learning game.
   - [Donsol](https://hundredrabbits.itch.io/donsol) - Card game about exploring a dungeon made of a standard 54 poker card set.
@@ -120,11 +120,11 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [Lights Out](https://github.com/origedit/lights-out) - Puzzle game for Varvara.
   - [Worm](https://github.com/origedit/worm) - Dune themed snake game for Varvara.
 
-* Networking
+### Networking
 
   - [Xrxs](https://nilfm.cc/git/xrxs/about/) - Experimental game server using the Plan 9 protocol 9p.
 
-* Operating systems/REPLs
+### Operating systems/REPLs
 
   - [UF](http://www.call-with-current-continuation.org/uf/uf.html) - A traditional Forth system for Varvara.
   - [CollapseOS](https://github.com/schierlm/collapseos-uxn) - Forth-based [operating system](http://collapseos.org/) for Varvara.
@@ -132,13 +132,13 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [PotatoOS](http://wiki.xxiivv.com/site/potato.html) - A little desktop environment.
   - [Varaboy](https://github.com/tbsp/varaboy) - Gameboy Emulator.
 
-* Demos
+### Demos
 
   - [Bad-apple-uxn](https://github.com/karolbelina/bad-apple-uxn) - Bad Apple!! video on a single Uxn ROM.
   - [tiles](https://codeberg.org/kira/uxn-demos/src/branch/master/tiles.tal) - A scrolling tile-map renderer.
   - [svitlyna](https://github.com/gardenappl/svitlyna) - A "full-color" image viewer.
 
-* Libraries
+### Libraries
 
   - [math32](https://git.phial.org/d6/nxu/raw/branch/main/math32.tal) - Unsigned 32-bit integers
   - [regex](https://git.phial.org/d6/nxu/raw/branch/main/regex.tal) - Regex parsing and matching ([repl](https://git.phial.org/d6/nxu/raw/branch/main/repl-regex.tal))
@@ -146,18 +146,18 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [alloc](https://git.phial.org/d6/nxu/raw/branch/main/alloc.tal) - Arena-based memory allocator
   - [arg](https://git.phial.org/d6/nxu/raw/branch/main/arg.tal) - Command-line argument parsing ([demo](https://git.phial.org/d6/nxu/raw/branch/main/arg-demo.tal))
 
-* Terminal / Command-line
+### Terminal / Command-line
 
   - [femto](https://git.phial.org/d6/nxu/raw/branch/main/femto.tal) - nano-like text editor ([about](https://git.phial.org/d6/nxu/raw/branch/main/femto.txt) / [launcher](https://git.phial.org/d6/nxu/raw/branch/main/femto) / [rom](http://plastic-idolatry.com/erik/nxu/femto.rom))
   - [grep](https://git.phial.org/d6/nxu/raw/branch/main/grep.tal) - minimal grep-like tool (uses regex.tal)
 
 ## Development tools
 
-* IDEs
+### IDEs
 
   - [Learn-uxn](https://metasyn.srht.site/learn-uxn/) - A web-based development environment with a text editor and up-to-date versions of Uxnasm and Uxnemu.
 
-* Assemblers, compilers & disassemblers
+### Assemblers, compilers & disassemblers
 
   - [Uxnasm](https://git.sr.ht/~rabbits/uxn/tree/main/item/src/uxnasm.c) - The original implementation of the Uxntal assembler in about 400 lines of ANSI C.
   - [Asma](https://git.sr.ht/~rabbits/uxn/tree/main/item/projects/software/asma.tal) - Uxntal assembler, written in Uxntal.
@@ -177,7 +177,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [nito](https://codeberg.org/wimvanderbauwhede/nito) - A compiler from Uxntal to C, written in Raku. See also the [blog post](https://limited.systems/articles/uxntal-to-C/).
   - [funktal](https://codeberg.org/wimvanderbauwhede/funktal) - A small, statically typed, functional programming language that compiles to Uxntal. The compiler is written in Fortran. See also the [blog post](https://limited.systems/articles/funktal).
 
-* Uxntal language support
+### Uxntal language support
 
   - [Atom language package](https://atom.io/packages/language-uxntal)
   - [Emacs mode](https://github.com/non/uxntal-mode) ([alt 1](https://github.com/xaderfos/uxntal-mode) [alt 2](https://github.com/rafapaezbas/uxntal-mode))
@@ -192,12 +192,12 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 
 ## Metadevelopment tools
 
-* Testing
+### Testing
   - Reference test suite included in the `uxn-utils` repository: [opctest](https://git.sr.ht/~rabbits/uxn-utils/blob/main/cli/opctest/opctest.tal).
   - Others
     * [Uxn-instruction-tests](https://github.com/DeltaF1/uxn-instruction-tests) - Test suite for the Uxn CPU instruction set.
 
-* Benchmarking
+### Benchmarking
 
   - [Bunnymark](https://codeberg.org/kira/uxn-demos/src/branch/master/bunnymark.tal) - Render performance benchmark.
 
