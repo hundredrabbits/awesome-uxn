@@ -4,6 +4,32 @@ Curated list of awesome Uxn projects from the community.
 
 The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playground, created to host small tools and games, programmable in its own unique assembly language.
 
+- [Awesome Uxn](https://github.com/hundredrabbits/awesome-uxn#awesome-uxn-)
+  - [Documentation](https://github.com/hundredrabbits/awesome-uxn#documentation)
+  - [Tutorials](https://github.com/hundredrabbits/awesome-uxn#tutorials)
+  - [Emulators](https://github.com/hundredrabbits/awesome-uxn#emulators)
+    - [Desktop](https://github.com/hundredrabbits/awesome-uxn#desktop)
+    - [Other Systems](https://github.com/hundredrabbits/awesome-uxn#other-systems)
+    - [Misc](https://github.com/hundredrabbits/awesome-uxn#misc)
+    - [Simulator](https://github.com/hundredrabbits/awesome-uxn#simulators)
+  - [Applications](https://github.com/hundredrabbits/awesome-uxn#applications)
+    - [Creative](https://github.com/hundredrabbits/awesome-uxn#creative)
+    - [Utilities](https://github.com/hundredrabbits/awesome-uxn#utilities)
+    - [Games](https://github.com/hundredrabbits/awesome-uxn#games)
+    - [Networking](https://github.com/hundredrabbits/awesome-uxn#networking)
+    - [Operating Systems / REPLs](https://github.com/hundredrabbits/awesome-uxn#operating--systemsrepls)
+    - [Demos](https://github.com/hundredrabbits/awesome-uxn#demos)
+    - [Libraries](https://github.com/hundredrabbits/awesome-uxn#libraries)
+    - [Terminal / Command-Line](https://github.com/hundredrabbits/awesome-uxn#terminal--command-line)
+  - [Development Tools](https://github.com/hundredrabbits/awesome-uxn#development-tools)
+    - [IDEs](https://github.com/hundredrabbits/awesome-uxn#ides)
+    - [Assemblers, Compilers & Disassemblers](https://github.com/hundredrabbits/awesome-uxn#assemblers-compilers--disassemblers)
+    - [Uxntal Language Support](https://github.com/hundredrabbits/awesome-uxn#uxntal-language-support)
+  - [Metadevelopment Tools](https://github.com/hundredrabbits/awesome-uxn#metadevelopment-tools)
+    - [Testing](https://github.com/hundredrabbits/awesome-uxn#testing)
+    - [Benchmarking](https://github.com/hundredrabbits/awesome-uxn#benchmarking)
+  - [Community](https://github.com/hundredrabbits/awesome-uxn#community) 
+
 ## Documentation
 
 - [Varvara](https://wiki.xxiivv.com/site/varvara.html) - Technical documentation of the Varvara computer and a list of all its devices.
@@ -79,7 +105,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [auxn](https://github.com/saucesaft/auxn) - uxn running inside of an audio plugin (standalone mode included)
   - [UxnWasm](https://github.com/remko/uxn.wasm) - WebAssembly implementation of the Uxn core.
 
-### Simulator
+### Simulators
 
   - [uxn.py](https://github.com/max22-/uxnemu.py) - Python implementation of the VM.
   - [uxn.js](https://git.sr.ht/~rabbits/uxn5) - Javascript implementation of the VM.
