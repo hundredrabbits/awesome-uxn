@@ -221,6 +221,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 
 ### Testing
   - Reference test suite included in the `uxn-utils` repository: [opctest](https://git.sr.ht/~rabbits/uxn-utils/blob/main/cli/opctest/opctest.tal).
+  - Reference rom to test the screen device compliance: [screen.tal](https://git.sr.ht/~rabbits/uxn/blob/main/projects/examples/devices/screen.tal)
   - Others
     * [Uxn-instruction-tests](https://github.com/DeltaF1/uxn-instruction-tests) - Test suite for the Uxn CPU instruction set.
 
