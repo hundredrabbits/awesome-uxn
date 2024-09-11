@@ -146,6 +146,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [Lights Out](https://github.com/origedit/lights-out) - Puzzle game for Varvara.
   - [Worm](https://github.com/origedit/worm) - Dune themed snake game for Varvara.
   - [Kodiak](https://git.phial.org/d6/kodiak) - Klondike solitaire with music and bears.
+  - [Tile Garden](https://kylep.itch.io/tile-garden) - Idle game where you place tiles to make plants.
 
 ### Networking
 
