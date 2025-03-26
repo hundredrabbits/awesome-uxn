@@ -39,7 +39,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 - [Font format](https://wiki.xxiivv.com/site/ufx_format.html) - `.ufx` file format description.
 - [Uxntal Cheatsheet](https://github.com/weeble/uxn-cheatsheet) - Opcode Cheatsheet.
 
-## Tutorials
+## Tutorials / Examples
 
 - [Uxn Tutorial by Compudanzas](https://compudanzas.net/uxn_tutorial.html) - Beginner-friendly tutorial guide which covers the basics of Uxn programming.
 - [Uxn Tutorial by Compudanzas(video)](https://www.youtube.com/watch?v=LrNuq_JgaOA) - Beginner-friendly video workshop which covers the basics of Uxn programming.
@@ -49,6 +49,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 - [Windows installation](https://itch.io/t/1605965/a-quick-guide-to-running-this-software)
 - [Android installation](https://llllllll.co/t/uxn-virtual-computer/46103/253) - Guide for running Uxn on the Android operating system through Termux.
 - [HaikuOS](https://discuss.haiku-os.org/t/uxn-ecosystem-on-haiku/12209) - Forum thread for the Haiku operating system.
+- [RosettaCode](https://rosettacode.org/wiki/Category:Uxntal) - Uxntal programming chrestomathy. See also: [tasks not implemented yet](https://rosettacode.org/wiki/Tasks_not_implemented_in_Uxntal).
 
 ## Emulators
 
@@ -160,6 +161,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [Uxnfth](https://git.sr.ht/~binarycat/uxnfth) - Uxn-native forth.
   - [PotatoOS](http://wiki.xxiivv.com/site/potato.html) - A little desktop environment.
   - [Varaboy](https://github.com/tbsp/varaboy) - Gameboy Emulator.
+  - [TalOS](https://github.com/UxnTalOS/talos) - A small Uxntal REPL and System Monitor/OS written in Uxntal.
 
 ### Demos
 
