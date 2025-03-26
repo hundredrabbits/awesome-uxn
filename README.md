@@ -6,7 +6,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 
 - [Awesome Uxn](https://github.com/hundredrabbits/awesome-uxn#awesome-uxn-)
   - [Documentation](https://github.com/hundredrabbits/awesome-uxn#documentation)
-  - [Tutorials](https://github.com/hundredrabbits/awesome-uxn#tutorials)
+  - [Tutorials / Examples](https://github.com/hundredrabbits/awesome-uxn#tutorials)
   - [Emulators](https://github.com/hundredrabbits/awesome-uxn#emulators)
     - [Desktop](https://github.com/hundredrabbits/awesome-uxn#desktop)
     - [Other Systems](https://github.com/hundredrabbits/awesome-uxn#other-systems)
