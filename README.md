@@ -209,8 +209,9 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [funktal](https://codeberg.org/wimvanderbauwhede/funktal) - A small, statically typed, functional programming language that compiles to Uxntal. The compiler is written in Fortran. See also the [blog post](https://limited.systems/articles/funktal).
   - [Finwë](https://github.com/kiedtl/finwe) - A high-level, stack-based language that compiles to Uxn bytecode.
   - [Yaku](https://codeberg.org/wimvanderbauwhede/yaku) - An Uxntal assembler and interpreter.
-  - [B](https://github.com/tsoding/b) - Compiler for the B Programming Language implemented in Crust, has support for uxn target
-
+  - [B](https://github.com/tsoding/b) - Compiler for the B Programming Language implemented in Crust, has support for uxn target.
+  - [niënor](https://github.com/krzysckh/nienor) - S-expression compiler.
+  - [SUPERFLY](https://codeberg.org/Bunny351/superfly) - Concatenative array language.
 ### Uxntal language support
 
   - [Atom language package](https://atom.io/packages/language-uxntal)
