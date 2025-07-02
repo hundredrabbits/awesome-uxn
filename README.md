@@ -139,7 +139,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [Pong](https://compudanzas.net/uxn_tutorial_day_6.html) - Recreation of the classic Pong game.
   - [Snake](https://git.sr.ht/~rabbits/uxn/tree/main/item/projects/examples/demos/snake.tal) - Classic Snake game implementation.
   - [Cat Cubes](https://pup.town/catcubes.html) - Puzzle game about matching and clearing tiles from a board.
-  - [Minesweeper](https://git.sr.ht/~rabbits/minesweeper) - Minesweeper port for Varvara.
+  - [Minesweeper](https://codeberg.org/yorshex/minesweeper-uxn) - Minesweeper port for Varvara.
   - [XO](https://garden.bouncepaw.com/hypha/xo.tal) - TicTacToe for Varvara.
   - [Fourtette](https://github.com/nf/fourtette) - Tetris for Varvara.
   - [Shanghai](https://github.com/lynn/shanghai) - Mahjong Solitaire for Varvara.
