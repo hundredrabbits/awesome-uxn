@@ -71,6 +71,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [ruxn](https://github.com/CrashAndSideburns/ruxn) - A Uxn library written in Rust, intended to make defining new Uxn-based systems easy.
   - [zuxn](https://github.com/chmod222/zuxn) - A Uxn library, emulator and assembler written in Zig.
   - [uxnfloppy](https://git.sr.ht/~gustav/uxnfloppy) - Bootable emulator for BIOS, written in 16bit x86 assembly. (no keyboard/gamepad/audio/file support)
+  - [buxn](https://github.com/bullno1/buxn) - Multi platform emulator, written in C.
 
 ### Other systems
 
@@ -94,6 +95,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [PlayStation Vita](https://github.com/ivodopiviz/uxnvita) - Incomplete.
   - [PlayStation Portable](https://codeberg.org/tbsp/VarvaraPSP) - Nearly Complete (missing keyboard).
   - [Atari ST](https://framagit.org/Bartitsu59/stuxn) - Incomplete.
+  - [Android](https://github.com/bullno1/buxn) - Complete.
 
 ### Misc
 
@@ -212,6 +214,9 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [B](https://github.com/tsoding/b) - Compiler for the B Programming Language implemented in Crust, has support for uxn target.
   - [niënor](https://github.com/krzysckh/nienor) - S-expression compiler.
   - [SUPERFLY](https://codeberg.org/Bunny351/superfly) - Concatenative array language.
+  - [buxn-asm](https://github.com/bullno1/buxn) - Uxntal assembler with a type checker.
+  - [buxn-dbg](https://github.com/bullno1/buxn-dbg) - Uxntal step debugger.
+
 ### Uxntal language support
 
   - [Atom language package](https://atom.io/packages/language-uxntal)
@@ -224,6 +229,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [Sublime syntax](https://git.sr.ht/~rabbits/uxn/tree/main/item/etc/syntax-highlight/tal.sublime-syntax)
   - [Vim plugin](https://github.com/karolbelina/uxntal.vim)
   - [Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=karolbelina.uxntal)
+  - [Language server](https://github.com/bullno1/buxn-ls)
 
 ## Metadevelopment tools
 
