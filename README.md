@@ -68,7 +68,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [Uxn38](http://zzo38computer.org/fossil/uxn.ui) - Emulator written in C with SDL1.
   - [Nux](https://github.com/nf/nux) - Emulator written in Go.
   - [uxn-rs](https://github.com/Liorst4/uxn-rs) - Emulator written in Rust.
-  - [ruxn](https://github.com/CrashAndSideburns/ruxn) - A Uxn library written in Rust, intended to make defining new Uxn-based systems easy.
+  - [ruxn](https://codeberg.org/mra/ruxn) - A Uxn library written in Rust, intended to make defining new Uxn-based systems easy.
   - [zuxn](https://github.com/chmod222/zuxn) - A Uxn library, emulator and assembler written in Zig.
   - [uxnfloppy](https://git.sr.ht/~gustav/uxnfloppy) - Bootable emulator for BIOS, written in 16bit x86 assembly. (no keyboard/gamepad/audio/file support)
   - [buxn](https://github.com/bullno1/buxn) - Multi platform emulator, written in C.
