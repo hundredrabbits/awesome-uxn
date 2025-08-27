@@ -217,6 +217,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [SUPERFLY](https://codeberg.org/Bunny351/superfly) - Concatenative array language.
   - [buxn-asm](https://github.com/bullno1/buxn) - Uxntal assembler with a type checker.
   - [buxn-dbg](https://github.com/bullno1/buxn-dbg) - Uxntal step debugger.
+  - [Callisto](https://github.com/callisto-lang/compiler) - Low level compiled programming language with a uxn backend
 
 ### Uxntal language support
 
