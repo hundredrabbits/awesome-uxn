@@ -168,7 +168,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 
 ### Demos
 
-  - [Bad-apple-uxn](https://github.com/karolbelina/bad-apple-uxn) - Bad Apple!! video on a single Uxn ROM.
+  - [Bad Apple!! Uxn](http://167.235.19.20/bad-apple-uxn/) - An arrangement of the Bad Apple!! music video.
   - [tiles](https://codeberg.org/kira/uxn-demos/src/branch/master/tiles.tal) - A scrolling tile-map renderer.
   - [svitlyna](https://github.com/gardenappl/svitlyna) - A "full-color" image viewer.
 
