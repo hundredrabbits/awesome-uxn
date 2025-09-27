@@ -96,6 +96,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [PlayStation Portable](https://codeberg.org/tbsp/VarvaraPSP) - Nearly Complete (missing keyboard).
   - [Atari ST](https://framagit.org/Bartitsu59/stuxn) - Incomplete.
   - [Android](https://github.com/bullno1/buxn) - Complete.
+  - [Pebble OS](https://git.sr.ht/~angelwood/uxn-pebble) - Experimental.
 
 ### Misc
 
