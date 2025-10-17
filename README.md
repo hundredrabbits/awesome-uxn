@@ -72,6 +72,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [zuxn](https://github.com/chmod222/zuxn) - A Uxn library, emulator and assembler written in Zig.
   - [uxnfloppy](https://git.sr.ht/~gustav/uxnfloppy) - Bootable emulator for BIOS, written in 16bit x86 assembly. (no keyboard/gamepad/audio/file support)
   - [buxn](https://github.com/bullno1/buxn) - Multi platform emulator, written in C.
+  - [uxn9](https://github.com/krzysckh/uxn9) - Native emulator for 9front. (no audio support)
 
 ### Other systems
 
@@ -214,7 +215,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
   - [Finwë](https://github.com/kiedtl/finwe) - A high-level, stack-based language that compiles to Uxn bytecode.
   - [Yaku](https://codeberg.org/wimvanderbauwhede/yaku) - An Uxntal assembler and interpreter.
   - [B](https://github.com/tsoding/b) - Compiler for the B Programming Language implemented in Crust, has support for uxn target.
-  - [niënor](https://github.com/krzysckh/nienor) - S-expression compiler.
+  - [niënor](https://github.com/krzysckh/nienor) - Optimizing compiler for a Lisp dialect.
   - [SUPERFLY](https://codeberg.org/Bunny351/superfly) - Concatenative array language.
   - [buxn-asm](https://github.com/bullno1/buxn) - Uxntal assembler with a type checker.
   - [buxn-dbg](https://github.com/bullno1/buxn-dbg) - Uxntal step debugger.
