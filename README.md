@@ -4,42 +4,18 @@ Curated list of awesome Uxn projects from the community.
 
 The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playground, created to host small tools and games, programmable in its own unique assembly language.
 
-- [Awesome Uxn](https://github.com/hundredrabbits/awesome-uxn#awesome-uxn-)
-  - [Documentation](https://github.com/hundredrabbits/awesome-uxn#documentation)
-  - [Tutorials / Examples](https://github.com/hundredrabbits/awesome-uxn#tutorials)
-  - [Emulators](https://github.com/hundredrabbits/awesome-uxn#emulators)
-    - [Desktop](https://github.com/hundredrabbits/awesome-uxn#desktop)
-    - [Other Systems](https://github.com/hundredrabbits/awesome-uxn#other-systems)
-    - [Misc](https://github.com/hundredrabbits/awesome-uxn#misc)
-    - [Simulator](https://github.com/hundredrabbits/awesome-uxn#simulators)
-  - [Applications](https://github.com/hundredrabbits/awesome-uxn#applications)
-    - [Creative](https://github.com/hundredrabbits/awesome-uxn#creative)
-    - [Utilities](https://github.com/hundredrabbits/awesome-uxn#utilities)
-    - [Games](https://github.com/hundredrabbits/awesome-uxn#games)
-    - [Networking](https://github.com/hundredrabbits/awesome-uxn#networking)
-    - [Operating Systems / REPLs](https://github.com/hundredrabbits/awesome-uxn#operating--systemsrepls)
-    - [Demos](https://github.com/hundredrabbits/awesome-uxn#demos)
-    - [Libraries](https://github.com/hundredrabbits/awesome-uxn#libraries)
-    - [Terminal / Command-Line](https://github.com/hundredrabbits/awesome-uxn#terminal--command-line)
-  - [Development Tools](https://github.com/hundredrabbits/awesome-uxn#development-tools)
-    - [IDEs](https://github.com/hundredrabbits/awesome-uxn#ides)
-    - [Assemblers, Compilers & Disassemblers](https://github.com/hundredrabbits/awesome-uxn#assemblers-compilers--disassemblers)
-    - [Uxntal Language Support](https://github.com/hundredrabbits/awesome-uxn#uxntal-language-support)
-  - [Metadevelopment Tools](https://github.com/hundredrabbits/awesome-uxn#metadevelopment-tools)
-    - [Testing](https://github.com/hundredrabbits/awesome-uxn#testing)
-    - [Benchmarking](https://github.com/hundredrabbits/awesome-uxn#benchmarking)
-  - [Community](https://github.com/hundredrabbits/awesome-uxn#community) 
-## Tutorials
 
-- [Uxn Tutorial by Compudanzas](https://compudanzas.net/uxn_tutorial.html) - Beginner-friendly tutorial guide which covers the basics of Uxn programming.
-- [Uxn Tutorial by Compudanzas(video)](https://www.youtube.com/watch?v=LrNuq_JgaOA) - Beginner-friendly video workshop which covers the basics of Uxn programming.
-- [Learn Uxntal in Y minutes](https://learnxinyminutes.com/docs/uxntal/) - Quick Uxntal guide.
-- [Uxn implementation guide](https://github.com/DeltaF1/uxn-impl-guide) - Notes on how to implement the Uxn/Varvara virtual machine specification.
+## Learning
+
+- [Learn Uxntal in Y minutes](https://learnxinyminutes.com/docs/uxntal/) - Language overview for when you're in a hurry.
+- [Uxn Guide by Compudanzas](https://compudanzas.net/uxn_tutorial.html) - Tutorial guide which covers the basics of Uxn programming.
+- [Uxn Video by Compudanzas](https://www.youtube.com/watch?v=LrNuq_JgaOA) - Video workshop which covers the basics of Uxn programming.
 - [macOS installation](https://eli.li/how-to-install-uxn-on-macos)
 - [Windows installation](https://itch.io/t/1605965/a-quick-guide-to-running-this-software)
-- [Android installation](https://llllllll.co/t/uxn-virtual-computer/46103/253) - Guide for running Uxn on the Android operating system through Termux.
-- [HaikuOS](https://discuss.haiku-os.org/t/uxn-ecosystem-on-haiku/12209) - Forum thread for the Haiku operating system.
-- [RosettaCode](https://rosettacode.org/wiki/Category:Uxntal) - Uxntal programming chrestomathy. See also: [tasks not implemented yet](https://rosettacode.org/wiki/Tasks_not_implemented_in_Uxntal).
+- [Android installation](https://llllllll.co/t/uxn-virtual-computer/46103/253) - Through Termux.
+- [HaikuOS installation](https://discuss.haiku-os.org/t/uxn-ecosystem-on-haiku/12209) - Forum thread for the Haiku operating system.
+- [Learn-uxn](https://metasyn.srht.site/learn-uxn/) - A web-based learning environment with a text editor and graphics.
+- [UxnREPL](https://wiki.xxiivv.com/etc/uxnrepl/) - A web-based learning with examples.
 
 ## Documentation
 
@@ -47,6 +23,11 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 - [Varvara](https://wiki.xxiivv.com/site/varvara.html) - Technical documentation of the Varvara computer and a list of all its devices.
 - [Opcodes](https://wiki.xxiivv.com/site/uxntal_reference.html) - List of Uxntal opcodes and their effects.
 - [Uxntal Cheatsheet](https://github.com/weeble/uxn-cheatsheet) - Opcode Cheatsheet.
+- [Implementation guide](https://github.com/DeltaF1/uxn-impl-guide) - Notes on how to implement the Uxn/Varvara virtual machine specification.
+- [RosettaCode](https://rosettacode.org/wiki/Category:Uxntal) - Uxntal programming chrestomathy.
+
+## File Formats
+
 - [Sprite format](https://wiki.xxiivv.com/site/chr_format.html) - `.chr` file format description.
 - [Font format](https://wiki.xxiivv.com/site/ufx_format.html) - `.ufx` file format description.
 - [Compression format](https://wiki.xxiivv.com/site/ulz_format.html) - `.ulz` file format description.
@@ -57,24 +38,23 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 
 - **Recommended for Linux**: [Uxn2](https://git.sr.ht/~rabbits/uxn2) - Cross-platform emulator, written in C(SDL2).
 - **Recommended for Windows**: [Uxn32](https://github.com/randrew/uxn32) - Windows emulator, written in C.
-- **Recommended for Mac**:  [Raven](https://github.com/mkeeter/raven) - Cross-platform emulator, written in Rust.
+- **Recommended for Mac**: [Raven](https://github.com/mkeeter/raven) - Cross-platform emulator, written in Rust.
 - [Uxn38](http://zzo38computer.org/fossil/uxn.ui) - Emulator written in C with SDL1.
 - [Nux](https://github.com/nf/nux) - Emulator written in Go.
 - [Uxn11](https://github.com/randrew/uxn32) - Linux emulator, written in C.
 - [uxn9](https://github.com/krzysckh/uxn9) - Native emulator for 9front. (no audio support)
 - [uxn5](https://git.sr.ht/~rabbits/uxn5) - Javascript implementation.
+- [buxn](https://github.com/bullno1/buxn) - Multi platform emulator, written in C.
+- [ruxn](https://codeberg.org/mra/ruxn) - A Uxn library written in Rust, intended to make defining new Uxn-based systems easy.
+- [zuxn](https://github.com/chmod222/zuxn) - A Uxn library, emulator and assembler written in Zig.
 - [UxnFb](https://git.badd10de.dev/uxnfb) - Linux framebuffer emulator, written in C.
+- [uxnfloppy](https://git.sr.ht/~gustav/uxnfloppy) - Bootable emulator for BIOS, written in 16bit x86 assembly. (no keyboard/gamepad/audio/file support)
 - [UxnRPI](https://git.badd10de.dev/uxnrpi) - RaspberryPi framebuffer emulator, written in C. (no input support)
 - [UxnAmiga](https://code.mathr.co.uk/uxn-amiga) - AmigaOS emulator, written in C. (no keyboard or joystick input, no audio support)
 - [UxnEssence](https://gitlab.com/nakst/essence/-/tree/master/ports/uxn) - [Essence](https://gitlab.com/nakst/essence) emulator, written in C.
 - [UxnJulia](https://github.com/Ismael-VC/Varvara.jl) - Cross-platform emulator and assembler, written in Julia.
 - [UxnLua](https://github.com/DeltaF1/uxn-lua) - Cross-platform emulator, written in Lua(Love2d).
 - [uxn-rs](https://github.com/Liorst4/uxn-rs) - Emulator written in Rust.
-- [ruxn](https://codeberg.org/mra/ruxn) - A Uxn library written in Rust, intended to make defining new Uxn-based systems easy.
-- [zuxn](https://github.com/chmod222/zuxn) - A Uxn library, emulator and assembler written in Zig.
-- [uxnfloppy](https://git.sr.ht/~gustav/uxnfloppy) - Bootable emulator for BIOS, written in 16bit x86 assembly. (no keyboard/gamepad/audio/file support)
-- [buxn](https://github.com/bullno1/buxn) - Multi platform emulator, written in C.
-- [uxn.py](https://github.com/max22-/uxnemu.py) - Python implementation of the VM.
 
 ### Other systems
 
@@ -106,19 +86,21 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 - [Libretro port](https://github.com/kivutar/uxn) - [Libretro](https://www.libretro.com/) emulation layer.
 - [LearnUxn](https://git.sr.ht/~metasyn/learn-uxn/) - Web assembler and emulator.
 - [Grid](https://tildegit.org/nihilazo/grid-uxn) - Incomplete.
-- [Rockbox](https://tilde.town/~nihilazo/varvara_rockbox.html) - Implemented: Core, Screen.
 - [Logisim](https://github.com/DeltaF1/uxn-logisim) - Incomplete.
 - [Adafruit PyBadge](https://git.sr.ht/~poyu/uxn-pybadge) - Implemented: Core, Console, Screen, Controller.
 - [Webuxn](https://github.com/aduros/webuxn) - Lightweight port of the Uxn virtual machine to the web via WebAssembly.
 - [auxn](https://github.com/saucesaft/auxn) - uxn running inside of an audio plugin (standalone mode included)
 - [UxnWasm](https://github.com/remko/uxn.wasm) - WebAssembly implementation of the Uxn core.
-- [uxnbot](https://git.sr.ht/~rabbits/uxnbot), a REPL.
+- [uxnbot](https://git.sr.ht/~rabbits/uxnbot) - a REPL.
+- [uxn.py](https://github.com/max22-/uxnemu.py) - Python implementation of the VM.
+- [Uxncli](https://git.sr.ht/~rabbits/uxncli) - System, console and file devices only.
+- [Uxnmin](https://git.sr.ht/~rabbits/uxnmin) - Console only.
 
 ## Applications
 
 ### Creative
 
-- [Left](https://wiki.xxiivv.com/site/left.html) - Graphical plain-text editor with proportional fonts and Uxntal syntax highlight.
+- [Left](https://wiki.xxiivv.com/site/left.html) - Graphical text-editor with Uxntal syntax highlight.
 - [Nasu](https://wiki.xxiivv.com/site/nasu.html) - Spritesheet editor.
 - [Noodle](https://wiki.xxiivv.com/site/noodle.html) - Drawing tool.
 - [Turye](https://wiki.xxiivv.com/site/turye.html) - Font editor.
@@ -127,14 +109,19 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 
 ### Utilities
 
+- [Notepad](https://wiki.xxiivv.com/site/notepad.html) - Notepad.
+- [Calendar](https://wiki.xxiivv.com/site/calendar.html) - Calendar.
+- [Theme](https://wiki.xxiivv.com/site/theme.html) - Theme editor.
 - [Dexe](https://wiki.xxiivv.com/site/dexe.html) - Graphical hex editor.
-- [Calc](https://git.sr.ht/~rabbits/uxn/tree/main/item/projects/software/calc.tal) - Graphical hexadecimal calculator.
-- [Clock](https://git.sr.ht/~rabbits/uxn/tree/main/item/projects/examples/devices/datetime.tal) - Graphical clock.
+- [CCCC](https://wiki.xxiivv.com/site/cccc.html) - Graphical calculator.
+- [Nebu](https://wiki.xxiivv.com/site/nebu.html) - Spreadsheet calculator.
 - [Starling](https://git.sr.ht/~cabrendan/starling) - Spreadsheet application.
 - [Beetbug](https://git.sr.ht/~rabbits/beetbug) - Step debugger.
+- [Varaboy](https://github.com/tbsp/varaboy) - Gameboy Emulator.
 
 ### Games
 
+- [Oquonie](https://hundredrabbits.itch.io/oquonie) - Puzzle adventure game.
 - [Niju](https://hundredrabbits.itch.io/niju) - Hiragana and katakana learning game.
 - [Donsol](https://hundredrabbits.itch.io/donsol) - Card game about exploring a dungeon made of a standard 54 poker card set.
 - [Flappy](https://github.com/keijiro/uxn-sketches/blob/main/flappy.tal) - Implementation of a Flappy Bird-like game.
@@ -153,24 +140,20 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 - [Tile Garden](https://kylep.itch.io/tile-garden) - Idle game where you place tiles to make plants.
 - [Polycat](https://git.sr.ht/~rabbits/polycat) - Platformer game, written in Uxntal for Varvara.
 
-### Networking
-
-- [Xrxs](https://nilfm.cc/git/xrxs/about/) - Experimental game server using the Plan 9 protocol 9p.
-
 ### Operating systems/REPLs
 
 - [UF](http://www.call-with-current-continuation.org/uf/uf.html) - A traditional Forth system for Varvara.
+- [PotatoOS](http://wiki.xxiivv.com/site/potato.html) - A little desktop environment.
 - [CollapseOS](https://github.com/schierlm/collapseos-uxn) - Forth-based [operating system](http://collapseos.org/) for Varvara.
 - [Uxnfth](https://git.sr.ht/~binarycat/uxnfth) - Uxn-native forth.
-- [PotatoOS](http://wiki.xxiivv.com/site/potato.html) - A little desktop environment.
-- [Varaboy](https://github.com/tbsp/varaboy) - Gameboy Emulator.
 - [TalOS](https://github.com/UxnTalOS/talos) - A small Uxntal REPL and System Monitor/OS written in Uxntal.
 
 ### Demos
 
-- [Bad Apple!! Uxn](http://167.235.19.20/bad-apple-uxn/) - An arrangement of the Bad Apple!! music video.
+- [Bad Apple!!](http://167.235.19.20/bad-apple-uxn/) - An arrangement of the Bad Apple!! music video.
 - [tiles](https://codeberg.org/kira/uxn-demos/src/branch/master/tiles.tal) - A scrolling tile-map renderer.
 - [svitlyna](https://github.com/gardenappl/svitlyna) - A "full-color" image viewer.
+- [Bunnymark](https://git.sr.ht/~rabbits/uxn/tree/main/item/projects/examples/demos/bunnymark.tal) - Render performance benchmark.
 
 ### Libraries
 
@@ -185,17 +168,16 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 - [femto](https://git.phial.org/d6/nxu/raw/branch/main/femto.tal) - nano-like text editor ([about](https://git.phial.org/d6/nxu/raw/branch/main/femto.txt) / [launcher](https://git.phial.org/d6/nxu/raw/branch/main/femto) / [rom](http://plastic-idolatry.com/erik/nxu/femto.rom))
 - [grep](https://git.phial.org/d6/nxu/raw/branch/main/grep.tal) - minimal grep-like tool (uses regex.tal)
 
+### Networking
+
+- [Xrxs](https://nilfm.cc/git/xrxs/about/) - Experimental game server using the Plan 9 protocol 9p.
+
 ## Development tools
-
-### IDEs
-
-- [Learn-uxn](https://metasyn.srht.site/learn-uxn/) - A web-based development environment with a text editor and graphics.
-- [UxnREPL](https://wiki.xxiivv.com/etc/uxnrepl/) - A web-based assembler with examples, no screen.
 
 ### Assemblers, compilers & disassemblers
 
-- [Drifblim](https://wiki.xxiivv.com/site/drifblim.html) - Uxntal Assembler, written in Uxntal.
-- [uxndis](https://git.sr.ht/~rabbits/uxndis), a disassembler for rom and sym files.
+- **Recommended**: [Drifblim](https://wiki.xxiivv.com/site/drifblim.html) - Uxntal Assembler, written in Uxntal.
+- [uxndis](https://git.sr.ht/~rabbits/uxndis) - a disassembler for rom and sym files.
 - [Uxncle](https://github.com/CPunch/Uxncle) - Compiler for a small subset of C to Uxn bytecode.
 - [Pyuxncle](https://github.com/CPunch/Pyuxncle) - Python implementation of Uxncle.
 - [Conch](https://github.com/Armael/conch) - Compiler for a C-like language with Lisp-like syntax to Uxn bytecode.
@@ -218,28 +200,25 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 - [buxn-asm](https://github.com/bullno1/buxn) - Uxntal assembler with a type checker.
 - [buxn-dbg](https://github.com/bullno1/buxn-dbg) - Uxntal step debugger.
 - [Callisto](https://github.com/callisto-lang/compiler) - Low level compiled programming language with a uxn backend
+- [uxnfor](https://git.sr.ht/~rabbits/uxnfor) - a formatter for tal files.
 
 ### Uxntal language support
 
 - [Atom language package](https://atom.io/packages/language-uxntal)
 - [Emacs mode](https://github.com/non/uxntal-mode) ([alt 1](https://github.com/xaderfos/uxntal-mode) [alt 2](https://github.com/rafapaezbas/uxntal-mode))
-- [Kate syntax](https://github.com/pfych/uxntal-kate-syntax)
 - [Kakoune plugin](https://git.sr.ht/~athorp96/uxntal.kak)
 - [Lite XL plugin](https://raw.githubusercontent.com/lite-xl/lite-xl-plugins/master/plugins/language_tal.lua)
-- [Micro syntax](https://hacklab.nilfm.cc/dotfiles/blob/main/micro/syntax/uxn.yaml)
-- [Nano syntax](https://git.phial.org/d6/nxu/src/branch/main/tal.nanorc) ([alt 1](https://codeberg.org/sejo/uxntal.nanorc) [alt 2](https://git.sr.ht/~cassvs/uxntal-nano))
-- [Sublime syntax](https://git.sr.ht/~rabbits/uxn/tree/main/item/etc/syntax-highlight/tal.sublime-syntax)
 - [Vim plugin](https://github.com/karolbelina/uxntal.vim)
 - [Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=karolbelina.uxntal)
 - [Language server](https://github.com/bullno1/buxn-ls)
-- [uxnfor](https://git.sr.ht/~rabbits/uxnfor), a formatter for tal files.
-
-### Benchmarking
-
-- [Bunnymark](https://git.sr.ht/~rabbits/uxn/tree/main/item/projects/examples/demos/bunnymark.tal) - Render performance benchmark.
+- [Kate syntax](https://github.com/pfych/uxntal-kate-syntax)
+- [Sublime syntax](https://git.sr.ht/~rabbits/uxn-utils/tree/main/item/etc/tal.sublime-syntax)
+- [Nano syntax](https://git.sr.ht/~rabbits/uxn-utils/tree/main/item/etc/tal.nanorc)
+- [Micro syntax](https://hacklab.nilfm.cc/dotfiles/blob/main/micro/syntax/uxn.yaml)
+- [Nano syntax](https://git.phial.org/d6/nxu/src/branch/main/tal.nanorc) ([alt 1](https://codeberg.org/sejo/uxntal.nanorc) [alt 2](https://git.sr.ht/~cassvs/uxntal-nano))
 
 ## Community
 
-- [Lines](https://llllllll.co/t/uxn-virtual-computer/46103)
+- [Forum](https://llllllll.co/t/uxn-virtual-computer/46103)
 - [#uxn on irc.libera.net](https://web.libera.chat/gamja/?channels=%23uxn)
 - [#uxn on Merveilles](https://merveilles.town/tags/uxn)
