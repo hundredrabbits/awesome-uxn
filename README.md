@@ -4,7 +4,6 @@ Curated list of awesome Uxn projects from the community.
 
 The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playground, created to host small tools and games, programmable in its own unique assembly language.
 
-
 ## Learning
 
 - [Learn Uxntal in Y minutes](https://learnxinyminutes.com/docs/uxntal/) - Language overview for when you're in a hurry.
@@ -23,7 +22,6 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 - [Varvara](https://wiki.xxiivv.com/site/varvara.html) - Technical documentation of the Varvara computer and a list of all its devices.
 - [Opcodes](https://wiki.xxiivv.com/site/uxntal_reference.html) - List of Uxntal opcodes and their effects.
 - [Uxntal Cheatsheet](https://github.com/weeble/uxn-cheatsheet) - Opcode Cheatsheet.
-- [Implementation guide](https://github.com/DeltaF1/uxn-impl-guide) - Notes on how to implement the Uxn/Varvara virtual machine specification.
 - [RosettaCode](https://rosettacode.org/wiki/Category:Uxntal) - Uxntal programming chrestomathy.
 
 ## File Formats
@@ -41,7 +39,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 - **Recommended for Mac**: [Raven](https://github.com/mkeeter/raven) - Cross-platform emulator, written in Rust.
 - [Uxn38](http://zzo38computer.org/fossil/uxn.ui) - Emulator written in C with SDL1.
 - [Nux](https://github.com/nf/nux) - Emulator written in Go.
-- [Uxn11](https://github.com/randrew/uxn32) - Linux emulator, written in C.
+- [Uxn11](https://git.sr.ht/~rabbits/uxn11) - Linux emulator, written in C.
 - [uxn9](https://github.com/krzysckh/uxn9) - Native emulator for 9front. (no audio support)
 - [uxn5](https://git.sr.ht/~rabbits/uxn5) - Javascript implementation.
 - [buxn](https://github.com/bullno1/buxn) - Multi platform emulator, written in C.
@@ -50,29 +48,25 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 - [UxnFb](https://git.badd10de.dev/uxnfb) - Linux framebuffer emulator, written in C.
 - [uxnfloppy](https://git.sr.ht/~gustav/uxnfloppy) - Bootable emulator for BIOS, written in 16bit x86 assembly. (no keyboard/gamepad/audio/file support)
 - [UxnRPI](https://git.badd10de.dev/uxnrpi) - RaspberryPi framebuffer emulator, written in C. (no input support)
-- [UxnAmiga](https://code.mathr.co.uk/uxn-amiga) - AmigaOS emulator, written in C. (no keyboard or joystick input, no audio support)
-- [UxnEssence](https://gitlab.com/nakst/essence/-/tree/master/ports/uxn) - [Essence](https://gitlab.com/nakst/essence) emulator, written in C.
 - [UxnJulia](https://github.com/Ismael-VC/Varvara.jl) - Cross-platform emulator and assembler, written in Julia.
 - [UxnLua](https://github.com/DeltaF1/uxn-lua) - Cross-platform emulator, written in Lua(Love2d).
 - [uxn-rs](https://github.com/Liorst4/uxn-rs) - Emulator written in Rust.
 
 ### Other systems
 
-- [FPGA](https://github.com/tsalvo/uxn-fpga) - Nearly Complete.
+- [FPGA](https://github.com/tsalvo/openfpga-varvara) - Nearly Complete.
 - [RPi](https://github.com/ar-nelson/uxnpi) - Nearly Complete.
 - [Game Boy Advance](https://git.badd10de.dev/uxngba) - Complete.
 - [Nintendo 64](https://git.badd10de.dev/uxn64) - Complete.
 - [Nintendo DS](https://github.com/asiekierka/uxnds) - Complete.
 - [Playdate](https://git.sr.ht/~rabbits/uxn-playdate) - Complete.
 - [Nook eReader](https://git.badd10de.dev/uxnnst/) - Complete.
-- [Nokia N900](https://git.sr.ht/~foura/uxn900) - Partial.
 - [Game Boy](https://github.com/tbsp/uxngb) - Experimental.
 - [DOS](https://git.sr.ht/~rabbits/uxn-vga) - Implemented: Core, Screen, Mouse, Controller.
 - [Teletype](https://github.com/csboling/teluxn) - Incomplete.
 - [ESP32](https://github.com/max22-/uxn-esp32) - Incomplete.
 - [iOS](https://github.com/paiv/uxn-ios) - Nearly Complete (missing midi and controller).
 - [iOS](https://github.com/kylestew/UxniOS) - Incomplete.
-- [STM32](https://github.com/kylestew/armuxn) - Incomplete.
 - [STM32duino](https://github.com/cassvs/arduxno-demo) - Incomplete.
 - [IBM PC](https://github.com/cr1901/pcuxn) - Incomplete.
 - [PlayStation Vita](https://github.com/ivodopiviz/uxnvita) - Incomplete.
@@ -80,17 +74,17 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 - [Atari ST](https://framagit.org/Bartitsu59/stuxn) - Incomplete.
 - [Android](https://github.com/bullno1/buxn) - Complete.
 - [Pebble OS](https://git.sr.ht/~angelwood/uxn-pebble) - Experimental.
-
-### Misc
-
-- [Libretro port](https://github.com/kivutar/uxn) - [Libretro](https://www.libretro.com/) emulation layer.
-- [LearnUxn](https://git.sr.ht/~metasyn/learn-uxn/) - Web assembler and emulator.
-- [Grid](https://tildegit.org/nihilazo/grid-uxn) - Incomplete.
-- [Logisim](https://github.com/DeltaF1/uxn-logisim) - Incomplete.
 - [Adafruit PyBadge](https://git.sr.ht/~poyu/uxn-pybadge) - Implemented: Core, Console, Screen, Controller.
-- [Webuxn](https://github.com/aduros/webuxn) - Lightweight port of the Uxn virtual machine to the web via WebAssembly.
+- [Logisim](https://github.com/DeltaF1/uxn-logisim) - Incomplete.
 - [auxn](https://github.com/saucesaft/auxn) - uxn running inside of an audio plugin (standalone mode included)
+
+### Web
+
 - [UxnWasm](https://github.com/remko/uxn.wasm) - WebAssembly implementation of the Uxn core.
+- [Webuxn](https://github.com/aduros/webuxn) - Lightweight port of the Uxn virtual machine to the web via WebAssembly.
+
+### Cores
+
 - [uxnbot](https://git.sr.ht/~rabbits/uxnbot) - a REPL.
 - [uxn.py](https://github.com/max22-/uxnemu.py) - Python implementation of the VM.
 - [Uxncli](https://git.sr.ht/~rabbits/uxncli) - System, console and file devices only.
@@ -126,7 +120,6 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 - [Donsol](https://hundredrabbits.itch.io/donsol) - Card game about exploring a dungeon made of a standard 54 poker card set.
 - [Flappy](https://github.com/keijiro/uxn-sketches/blob/main/flappy.tal) - Implementation of a Flappy Bird-like game.
 - [Pong](https://compudanzas.net/uxn_tutorial_day_6.html) - Recreation of the classic Pong game.
-- [Snake](https://git.sr.ht/~rabbits/uxn/tree/main/item/projects/examples/demos/snake.tal) - Classic Snake game implementation.
 - [Cat Cubes](https://pup.town/catcubes.html) - Puzzle game about matching and clearing tiles from a board.
 - [Minesweeper](https://codeberg.org/yorshex/minesweeper-uxn) - Minesweeper port for Varvara.
 - [XO](https://garden.bouncepaw.com/hypha/xo.tal) - TicTacToe for Varvara.
@@ -138,7 +131,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 - [Worm](https://github.com/origedit/worm) - Dune themed snake game for Varvara.
 - [Kodiak](https://git.phial.org/d6/kodiak) - Klondike solitaire with music and bears.
 - [Tile Garden](https://kylep.itch.io/tile-garden) - Idle game where you place tiles to make plants.
-- [Polycat](https://git.sr.ht/~rabbits/polycat) - Platformer game, written in Uxntal for Varvara.
+- [Polycat](https://hundredrabbits.itch.io/polycat) - Platformer game.
 
 ### Operating systems/REPLs
 
@@ -153,7 +146,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 - [Bad Apple!!](http://167.235.19.20/bad-apple-uxn/) - An arrangement of the Bad Apple!! music video.
 - [tiles](https://codeberg.org/kira/uxn-demos/src/branch/master/tiles.tal) - A scrolling tile-map renderer.
 - [svitlyna](https://github.com/gardenappl/svitlyna) - A "full-color" image viewer.
-- [Bunnymark](https://git.sr.ht/~rabbits/uxn/tree/main/item/projects/examples/demos/bunnymark.tal) - Render performance benchmark.
+- [Bunnymark](https://git.sr.ht/~rabbits/uxn-games/tree/main/item/bunnymark/src/bunnymark.tal) - Render performance benchmark.
 
 ### Libraries
 
@@ -222,3 +215,4 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 - [Forum](https://llllllll.co/t/uxn-virtual-computer/46103)
 - [#uxn on irc.libera.net](https://web.libera.chat/gamja/?channels=%23uxn)
 - [#uxn on Merveilles](https://merveilles.town/tags/uxn)
+
