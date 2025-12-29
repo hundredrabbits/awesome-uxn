@@ -54,41 +54,43 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 
 ### Other systems
 
-- [FPGA](https://github.com/tsalvo/openfpga-varvara) - Nearly Complete.
-- [RPi](https://github.com/ar-nelson/uxnpi) - Nearly Complete.
 - [Game Boy Advance](https://git.badd10de.dev/uxngba) - Complete.
 - [Nintendo 64](https://git.badd10de.dev/uxn64) - Complete.
 - [Nintendo DS](https://github.com/asiekierka/uxnds) - Complete.
 - [Playdate](https://git.sr.ht/~rabbits/uxn-playdate) - Complete.
 - [Nook eReader](https://git.badd10de.dev/uxnnst/) - Complete.
-- [Game Boy](https://github.com/tbsp/uxngb) - Experimental.
-- [DOS](https://git.sr.ht/~rabbits/uxn-vga) - Implemented: Core, Screen, Mouse, Controller.
+- [Android](https://github.com/bullno1/buxn) - Complete.
+- [FPGA](https://github.com/tsalvo/openfpga-varvara) - Nearly Complete.
+- [RPi](https://github.com/ar-nelson/uxnpi) - Nearly Complete.
+- [Game Boy](https://github.com/tbsp/uxngb) - Incomplete.
+- [DOS](https://git.sr.ht/~rabbits/uxn-vga) - Incomplete.
 - [Teletype](https://github.com/csboling/teluxn) - Incomplete.
 - [ESP32](https://github.com/max22-/uxn-esp32) - Incomplete.
-- [iOS](https://github.com/paiv/uxn-ios) - Nearly Complete (missing midi and controller).
+- [iOS](https://github.com/paiv/uxn-ios) - Incomplete.
 - [iOS](https://github.com/kylestew/UxniOS) - Incomplete.
 - [STM32duino](https://github.com/cassvs/arduxno-demo) - Incomplete.
 - [IBM PC](https://github.com/cr1901/pcuxn) - Incomplete.
 - [PlayStation Vita](https://github.com/ivodopiviz/uxnvita) - Incomplete.
-- [PlayStation Portable](https://codeberg.org/tbsp/VarvaraPSP) - Nearly Complete (missing keyboard).
+- [PlayStation Portable](https://codeberg.org/tbsp/VarvaraPSP) - Incomplete.
 - [Atari ST](https://framagit.org/Bartitsu59/stuxn) - Incomplete.
-- [Android](https://github.com/bullno1/buxn) - Complete.
-- [Pebble OS](https://git.sr.ht/~angelwood/uxn-pebble) - Experimental.
-- [Adafruit PyBadge](https://git.sr.ht/~poyu/uxn-pybadge) - Implemented: Core, Console, Screen, Controller.
+- [Pebble OS](https://git.sr.ht/~angelwood/uxn-pebble) - Incomplete.
+- [Adafruit PyBadge](https://git.sr.ht/~poyu/uxn-pybadge) - Incomplete.
 - [Logisim](https://github.com/DeltaF1/uxn-logisim) - Incomplete.
-- [auxn](https://github.com/saucesaft/auxn) - uxn running inside of an audio plugin (standalone mode included)
 
 ### Web
 
 - [UxnWasm](https://github.com/remko/uxn.wasm) - WebAssembly implementation of the Uxn core.
 - [Webuxn](https://github.com/aduros/webuxn) - Lightweight port of the Uxn virtual machine to the web via WebAssembly.
 
-### Cores
+### Misc/Cores
 
 - [uxnbot](https://git.sr.ht/~rabbits/uxnbot) - a REPL.
 - [uxn.py](https://github.com/max22-/uxnemu.py) - Python implementation of the VM.
 - [Uxncli](https://git.sr.ht/~rabbits/uxncli) - System, console and file devices only.
 - [Uxnmin](https://git.sr.ht/~rabbits/uxnmin) - Console only.
+- [auxn](https://github.com/saucesaft/auxn) - Incomplete.
+- [buxn-dbg](https://github.com/bullno1/buxn-dbg) - Uxntal step debugger.
+- [uxnbot](https://git.sr.ht/~alderwick/uxnbot) - IRC bot for assembling and running small Uxntal snippets.
 
 ## Applications
 
@@ -151,49 +153,52 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 ### Libraries
 
 - [math32](https://git.phial.org/d6/nxu/raw/branch/main/math32.tal) - Unsigned 32-bit integers
-- [regex](https://git.phial.org/d6/nxu/raw/branch/main/regex.tal) - Regex parsing and matching ([repl](https://git.phial.org/d6/nxu/raw/branch/main/repl-regex.tal))
+- [regex](https://git.phial.org/d6/nxu/raw/branch/main/regex.tal) - Regex parsing and matching
 - [fix16](https://git.phial.org/d6/nxu/raw/branch/main/fix16.tal) - Signed 16-bit fixed point numbers (8.8)
 - [alloc](https://git.phial.org/d6/nxu/raw/branch/main/alloc.tal) - Arena-based memory allocator
-- [arg](https://git.phial.org/d6/nxu/raw/branch/main/arg.tal) - Command-line argument parsing ([demo](https://git.phial.org/d6/nxu/raw/branch/main/arg-demo.tal))
+- [arg](https://git.phial.org/d6/nxu/raw/branch/main/arg.tal) - Command-line argument parsing
 
 ### Terminal / Command-line
 
-- [femto](https://git.phial.org/d6/nxu/raw/branch/main/femto.tal) - nano-like text editor ([about](https://git.phial.org/d6/nxu/raw/branch/main/femto.txt) / [launcher](https://git.phial.org/d6/nxu/raw/branch/main/femto) / [rom](http://plastic-idolatry.com/erik/nxu/femto.rom))
-- [grep](https://git.phial.org/d6/nxu/raw/branch/main/grep.tal) - minimal grep-like tool (uses regex.tal)
-
-### Networking
-
+- [femto](https://git.phial.org/d6/nxu/raw/branch/main/femto.tal) - nano-like text editor
+- [grep](https://git.phial.org/d6/nxu/raw/branch/main/grep.tal) - minimal grep-like tool(uses regex.tal)
 - [Xrxs](https://nilfm.cc/git/xrxs/about/) - Experimental game server using the Plan 9 protocol 9p.
 
 ## Development tools
 
-### Assemblers, compilers & disassemblers
+### Uxntal Assemblers
 
 - **Recommended**: [Drifblim](https://wiki.xxiivv.com/site/drifblim.html) - Uxntal Assembler, written in Uxntal.
-- [uxndis](https://git.sr.ht/~rabbits/uxndis) - a disassembler for rom and sym files.
-- [Uxncle](https://github.com/CPunch/Uxncle) - Compiler for a small subset of C to Uxn bytecode.
-- [Pyuxncle](https://github.com/CPunch/Pyuxncle) - Python implementation of Uxncle.
-- [Conch](https://github.com/Armael/conch) - Compiler for a C-like language with Lisp-like syntax to Uxn bytecode.
+- [buxn-asm](https://github.com/bullno1/buxn) - Uxntal assembler with a type checker.
+- [Uxnasm-js](https://github.com/rafapaezbas/uxnasm-js) - Uxntal assembler written in JavaScript.
+- [lunas](https://github.com/ThaCuber/lunas) - An Uxntal assembler written in Lua.
+- [Yaku](https://codeberg.org/wimvanderbauwhede/yaku) - An Uxntal assembler and interpreter.
+
+### Uxntal Disassemblers
+
+- **Recommended**: [uxndis](https://git.sr.ht/~rabbits/uxndis) - Disassembler for rom and sym files.
+- [Pyuxntaldisasm](https://github.com/DeltaF1/pyuxntaldisasm) - Very basic disassembler for Uxn ROMs.
+- [Uxn-disassembler](https://github.com/Liorst4/uxn-disassembler) - Disassembler writen in Uxntal 
+
+### Uxntal Formatters/Optimizers
+
+- **Recommended**: [uxnfor](https://git.sr.ht/~rabbits/uxnfor) - a formatter for tal files.
 - [Uxnbruteforce](https://github.com/max22-/uxnbruteforce) - Tool for optimizing little pieces of Uxntal code.
 - [Uxnlin](https://git.sr.ht/~rabbits/uxnlin) - Linter for Uxntal.
-- [Uxnbot](https://git.sr.ht/~alderwick/uxnbot) - IRC bot for assembling and running small Uxntal snippets.
-- [Pyuxntaldisasm](https://github.com/DeltaF1/pyuxntaldisasm) - Very basic disassembler for Uxn ROMs.
-- [Uxnasm-js](https://github.com/rafapaezbas/uxnasm-js) - Uxntal assembler written in JavaScript.
-- [Uxn-disassembler](https://github.com/Liorst4/uxn-disassembler) - A rom disassembler writen in Uxntal 
-- [Dotal](https://github.com/HParker/dotal) - A small language designed to compile to the Uxn virtual machine.
-- [lunas](https://github.com/ThaCuber/lunas) - An Uxntal assembler written in Lua.
-- [chibicc-uxn](https://github.com/lynn/chibicc) - A C compiler for Uxn, written in C.
-- [nito](https://codeberg.org/wimvanderbauwhede/nito) - A compiler from Uxntal to C, written in Raku. See also the [blog post](https://limited.systems/articles/uxntal-to-C/).
-- [funktal](https://codeberg.org/wimvanderbauwhede/funktal) - A small, statically typed, functional programming language that compiles to Uxntal. The compiler is written in Fortran. See also the [blog post](https://limited.systems/articles/funktal).
+
+### Languages that target Uxn
+
 - [Finwë](https://github.com/kiedtl/finwe) - A high-level, stack-based language that compiles to Uxn bytecode.
-- [Yaku](https://codeberg.org/wimvanderbauwhede/yaku) - An Uxntal assembler and interpreter.
+- [Conch](https://github.com/Armael/conch) - Compiler for a C-like language with Lisp-like syntax to Uxn bytecode.
+- [Dotal](https://github.com/HParker/dotal) - A small language designed to compile to the Uxn virtual machine.
+- [chibicc-uxn](https://github.com/lynn/chibicc) - A C compiler for Uxn, written in C.
+- [nito](https://codeberg.org/wimvanderbauwhede/nito) - A compiler from Uxntal to C, written in Raku. 
+- [funktal](https://codeberg.org/wimvanderbauwhede/funktal) - A small, statically typed, functional programming language that compiles to Uxntal.
+- [Uxncle](https://github.com/CPunch/Uxncle) - Compiler for a small subset of C to Uxn bytecode.
 - [B](https://github.com/tsoding/b) - Compiler for the B Programming Language implemented in Crust, has support for uxn target.
 - [niënor](https://github.com/krzysckh/nienor) - Optimizing compiler for a Lisp dialect.
 - [SUPERFLY](https://codeberg.org/Bunny351/superfly) - Concatenative array language.
-- [buxn-asm](https://github.com/bullno1/buxn) - Uxntal assembler with a type checker.
-- [buxn-dbg](https://github.com/bullno1/buxn-dbg) - Uxntal step debugger.
-- [Callisto](https://github.com/callisto-lang/compiler) - Low level compiled programming language with a uxn backend
-- [uxnfor](https://git.sr.ht/~rabbits/uxnfor) - a formatter for tal files.
+- [Callisto](https://github.com/callisto-lang/compiler) - Low level compiled programming language with a uxn backend.
 
 ### Uxntal language support
 
@@ -206,9 +211,8 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 - [Language server](https://github.com/bullno1/buxn-ls)
 - [Kate syntax](https://github.com/pfych/uxntal-kate-syntax)
 - [Sublime syntax](https://git.sr.ht/~rabbits/uxn-utils/tree/main/item/etc/tal.sublime-syntax)
-- [Nano syntax](https://git.sr.ht/~rabbits/uxn-utils/tree/main/item/etc/tal.nanorc)
 - [Micro syntax](https://hacklab.nilfm.cc/dotfiles/blob/main/micro/syntax/uxn.yaml)
-- [Nano syntax](https://git.phial.org/d6/nxu/src/branch/main/tal.nanorc) ([alt 1](https://codeberg.org/sejo/uxntal.nanorc) [alt 2](https://git.sr.ht/~cassvs/uxntal-nano))
+- [Nano syntax](https://git.phial.org/d6/nxu/src/branch/main/tal.nanorc) ([1](https://codeberg.org/sejo/uxntal.nanorc) [2](https://git.sr.ht/~cassvs/uxntal-nano) [3](https://git.sr.ht/~rabbits/uxn-utils/tree/main/item/etc/tal.nanorc))
 
 ## Community
 
