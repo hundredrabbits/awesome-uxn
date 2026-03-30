@@ -1,8 +1,4 @@
-# Awesome Uxn [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-Curated list of awesome Uxn projects from the community.
-
-The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playground, created to host small tools and games, programmable in its own unique assembly language.
+# Uxn
 
 ## Learning
 
@@ -34,9 +30,9 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 
 ### Desktop
 
-- **Recommended for Linux**: [Uxn2](https://git.sr.ht/~rabbits/uxn2) - Cross-platform emulator, written in C(SDL2).
+- **Recommended for Linux/Mac**: [Uxn2](https://git.sr.ht/~rabbits/uxn2) - Cross-platform emulator, written in C(SDL2).
 - **Recommended for Windows**: [Uxn32](https://github.com/randrew/uxn32) - Windows emulator, written in C.
-- **Recommended for Mac**: [Raven](https://github.com/mkeeter/raven) - Cross-platform emulator, written in Rust.
+- **Recommended for Linux(no desktop)**: [uxn-lfb](https://git.phial.org/d6/uxn-lfb) - Graphical emulator, written in C.
 - [Uxn38](http://zzo38computer.org/fossil/uxn.ui) - Emulator written in C with SDL1.
 - [Nux](https://github.com/nf/nux) - Emulator written in Go.
 - [Uxn11](https://git.sr.ht/~rabbits/uxn11) - Linux emulator, written in C.
@@ -52,6 +48,7 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 - [UxnLua](https://github.com/DeltaF1/uxn-lua) - Cross-platform emulator, written in Lua(Love2d).
 - [uxn-rs](https://github.com/Liorst4/uxn-rs) - Emulator written in Rust.
 - [uxnk](https://github.com/makohn/uxnk) - Emulator written in Kotlin.
+- [Kestrel](https://git.rhzm.org/lobo/kestrel) - Emulator written in OCaml. (System, Console, File, DateTime)
 
 ### Other systems
 
@@ -61,8 +58,11 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 - [Playdate](https://git.sr.ht/~rabbits/uxn-playdate) - Complete.
 - [Nook eReader](https://git.badd10de.dev/uxnnst/) - Complete.
 - [Android](https://github.com/bullno1/buxn) - Complete.
-- [FPGA](https://github.com/tsalvo/openfpga-varvara) - Nearly Complete.
-- [RPi](https://github.com/ar-nelson/uxnpi) - Nearly Complete.
+- [m5Stick](https://git.sr.ht/~rabbits/uxn-m5stickc) - Complete.
+- [Wonderswan Color](https://codeberg.org/asie/uxnws) - Partial.
+- [FPGA](https://github.com/tsalvo/openfpga-varvara) - Partial.
+- [RPi](https://github.com/ar-nelson/uxnpi) - Partial.
+- [AgonLight2/eZ80](https://git.phial.org/d6/uxn-agon) - Cli.
 - [Game Boy](https://github.com/tbsp/uxngb) - Incomplete.
 - [DOS](https://git.sr.ht/~rabbits/uxn-vga) - Incomplete.
 - [Teletype](https://github.com/csboling/teluxn) - Incomplete.
@@ -88,10 +88,16 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 - [uxnbot](https://git.sr.ht/~rabbits/uxnbot) - a REPL.
 - [uxn.py](https://github.com/max22-/uxnemu.py) - Python implementation of the VM.
 - [Uxncli](https://git.sr.ht/~rabbits/uxncli) - System, console and file devices only.
-- [Uxnmin](https://git.sr.ht/~rabbits/uxnmin) - Console only.
 - [auxn](https://github.com/saucesaft/auxn) - Incomplete.
 - [buxn-dbg](https://github.com/bullno1/buxn-dbg) - Uxntal step debugger.
 - [uxnbot](https://git.sr.ht/~alderwick/uxnbot) - IRC bot for assembling and running small Uxntal snippets.
+
+### Uxnmin
+
+Implementations of the core and console.
+
+- [C89](https://git.sr.ht/~rabbits/uxnmin) - Console only.
+- [OCaml](https://wiki.xxiivv.com/etc/uxnmin.ml.txt) - Console only.
 
 ## Applications
 
@@ -187,20 +193,6 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 - [Uxnbruteforce](https://github.com/max22-/uxnbruteforce) - Tool for optimizing little pieces of Uxntal code.
 - [Uxnlin](https://git.sr.ht/~rabbits/uxnlin) - Linter for Uxntal.
 
-### Languages that target Uxn
-
-- [Finwë](https://github.com/kiedtl/finwe) - A high-level, stack-based language that compiles to Uxn bytecode.
-- [Conch](https://github.com/Armael/conch) - Compiler for a C-like language with Lisp-like syntax to Uxn bytecode.
-- [Dotal](https://github.com/HParker/dotal) - A small language designed to compile to the Uxn virtual machine.
-- [chibicc-uxn](https://github.com/lynn/chibicc) - A C compiler for Uxn, written in C.
-- [nito](https://codeberg.org/wimvanderbauwhede/nito) - A compiler from Uxntal to C, written in Raku. 
-- [funktal](https://codeberg.org/wimvanderbauwhede/funktal) - A small, statically typed, functional programming language that compiles to Uxntal.
-- [Uxncle](https://github.com/CPunch/Uxncle) - Compiler for a small subset of C to Uxn bytecode.
-- [B](https://github.com/tsoding/b) - Compiler for the B Programming Language implemented in Crust, has support for uxn target.
-- [niënor](https://github.com/krzysckh/nienor) - Optimizing compiler for a Lisp dialect.
-- [SUPERFLY](https://codeberg.org/Bunny351/superfly) - Concatenative array language.
-- [Callisto](https://github.com/callisto-lang/compiler) - Low level compiled programming language with a uxn backend.
-
 ### Uxntal language support
 
 - [Atom language package](https://atom.io/packages/language-uxntal)
@@ -215,9 +207,26 @@ The [Uxn](https://100r.co/site/uxn.html) ecosystem is a personal computing playg
 - [Micro syntax](https://hacklab.nilfm.cc/dotfiles/blob/main/micro/syntax/uxn.yaml)
 - [Nano syntax](https://git.phial.org/d6/nxu/src/branch/main/tal.nanorc) ([1](https://codeberg.org/sejo/uxntal.nanorc) [2](https://git.sr.ht/~cassvs/uxntal-nano) [3](https://git.sr.ht/~rabbits/uxn-utils/tree/main/item/etc/tal.nanorc))
 
+### Languages that target Uxn
+
+- [Finwë](https://github.com/kiedtl/finwe) - A high-level, stack-based language that compiles to Uxn bytecode.
+- [Conch](https://github.com/Armael/conch) - Compiler for a C-like language with Lisp-like syntax to Uxn bytecode.
+- [Dotal](https://github.com/HParker/dotal) - A small language designed to compile to the Uxn virtual machine.
+- [chibicc-uxn](https://github.com/lynn/chibicc) - A C compiler for Uxn, written in C.
+- [nito](https://codeberg.org/wimvanderbauwhede/nito) - A compiler from Uxntal to C, written in Raku. 
+- [funktal](https://codeberg.org/wimvanderbauwhede/funktal) - A small, statically typed, functional programming language that compiles to Uxntal.
+- [Uxncle](https://github.com/CPunch/Uxncle) - Compiler for a small subset of C to Uxn bytecode.
+- [B](https://github.com/tsoding/b) - Compiler for the B Programming Language implemented in Crust, has support for uxn target.
+- [niënor](https://github.com/krzysckh/nienor) - Optimizing compiler for a Lisp dialect.
+- [SUPERFLY](https://codeberg.org/Bunny351/superfly) - Concatenative array language.
+- [Callisto](https://github.com/callisto-lang/compiler) - Low level compiled programming language with a uxn backend.
+
 ## Community
 
 - [Forum](https://llllllll.co/t/uxn-virtual-computer/46103)
 - [#uxn on irc.libera.net](https://web.libera.chat/gamja/?channels=%23uxn)
 - [#uxn on Merveilles](https://merveilles.town/tags/uxn)
 
+## Contributing
+
+Submit patches using [`git send-email`](https://git-send-email.io/) to the [~rabbits/public-inbox mailing list](https://lists.sr.ht/~rabbits/public-inbox).
