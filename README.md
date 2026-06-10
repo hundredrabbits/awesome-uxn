@@ -181,6 +181,7 @@ Implementations of the core and console.
 - [Uxnasm-js](https://github.com/rafapaezbas/uxnasm-js) - Uxntal assembler written in JavaScript.
 - [lunas](https://github.com/ThaCuber/lunas) - An Uxntal assembler written in Lua.
 - [Yaku](https://codeberg.org/wimvanderbauwhede/yaku) - An Uxntal assembler and interpreter.
+- [uxnasm-hs](https://github.com/ricardomaps/uxnasm-hs) - Uxntal assembler written in Haskell
 
 ### Uxntal Disassemblers
 
