@@ -207,6 +207,7 @@ Implementations of the core and console.
 - [Sublime syntax](https://git.sr.ht/~rabbits/uxn-utils/tree/main/item/etc/tal.sublime-syntax)
 - [Micro syntax](https://hacklab.nilfm.cc/dotfiles/blob/main/micro/syntax/uxn.yaml)
 - [Nano syntax](https://git.phial.org/d6/nxu/src/branch/main/tal.nanorc) ([1](https://codeberg.org/sejo/uxntal.nanorc) [2](https://git.sr.ht/~cassvs/uxntal-nano) [3](https://git.sr.ht/~rabbits/uxn-utils/tree/main/item/etc/tal.nanorc))
+- [Monotal](https://git.sr.ht/~ismael-vc/monotal) - Uxntal lexers and Monokai light/dark themes for Micro, Sublime Text, Pygments, SourceHut and MediaWiki.
 
 ### Languages that target Uxn
 
