@@ -49,6 +49,7 @@
 - [uxn-rs](https://github.com/Liorst4/uxn-rs) - Emulator written in Rust.
 - [uxnk](https://github.com/makohn/uxnk) - Emulator written in Kotlin.
 - [Kestrel](https://git.rhzm.org/lobo/kestrel) - Emulator written in OCaml. (System, Console, File, DateTime)
+- [uxn12](https://srcdump.net/pita/uxn12/) - Linux wayland emulator, written in C.
 
 ### Other systems
 
