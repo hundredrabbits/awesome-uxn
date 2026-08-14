@@ -142,6 +142,7 @@ Implementations of the core and console.
 - [Kodiak](https://git.phial.org/d6/kodiak) - Klondike solitaire with music and bears.
 - [Tile Garden](https://kylep.itch.io/tile-garden) - Idle game where you place tiles to make plants.
 - [Polycat](https://hundredrabbits.itch.io/polycat) - Platformer game.
+- [Kamiokande dreams](https://codeberg.org/neuschaefer/dreams#readme) - A surreal comic series.
 
 ### Operating systems/REPLs
 
